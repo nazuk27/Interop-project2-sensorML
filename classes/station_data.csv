@@ -1,0 +1,1081 @@
+,cords,description,name,params
+0,44.794 -87.313,"Sturgeon Bay CG Station, WI",station-0y2w3,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1,41.73 -86.91,"Michigan City CG Station, IN",station-18ci3,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+2,42.09 -86.49,"St. Joseph CG Station, MI",station-20cm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+3,40.302 146.192,"21346  380km East of Iwate, Japan",station-21346,[None]
+4,39.601 145.799,"21347  320km East of Iwate, Japan",station-21347,[None]
+5,38.816 145.595,"21348   350km East of Miyagi, Japan",station-21348,[None]
+6,42.617 152.583,250NM Southeast of Iturup Island,station-21401,[None]
+7,46.488 158.343,286NM East of Simushir Island,station-21402,[None]
+8,30.533 152.132,"SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP",station-21413,[None]
+9,48.963 178.237,"AMCHITKA - 170 NM South of Amchitka, AK",station-21414,[None]
+10,50.153 171.897,"ATTU - 175 NM South of Attu, AK",station-21415,[None]
+11,48.11 163.435,"KAMCHATKA PENINSULA - 240NM SE of Kamchatka Peninsula, RU",station-21416,[None]
+12,43.192 157.142,290NM SE of the Kuril Islands,station-21417,[None]
+13,38.735 148.655,"NORTHEAST TOKYO - 450 NM NE of Tokyo, JP",station-21418,[None]
+14,44.435 155.717,KURIL ISLANDS - 209NM SE of Kuril Is.,station-21419,[None]
+15,28.891 135.022,SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki,station-21420,[None]
+16,3.798 91.701,Bay of Bengal IN3,station-23217,[None]
+17,10.165 88.5,Bay of Bengal IN4,station-23218,[None]
+18,13.472 88.998,Bay of Bengal,station-23219,[None]
+19,14.433 89.333,Bay of Bengal,station-23220,[None]
+20,17.333 89.483,Bay of Bengal,station-23223,[None]
+21,20.2 67.333,Arabian Sea,station-23226,[None]
+22,6.255 88.792,Bay of Bengal,station-23227,[None]
+23,20.764 65.284,Arabian Sea,station-23228,[None]
+24,8.86 88.55,"BAY OF BENGAL - 600 NM WNW of Phuket, Thailand",station-23401,[None]
+25,9.541 95.668,"ANDAMAN SEA - 180 NM NW of Phuket, Thailand",station-23461,[None]
+26,32.384 144.54,Kuroshio Extension Observatory (KEO),station-28401,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+27,30 -90,SG168,station-28900,"['sea_water_salinity', 'sea_water_temperature']"
+28,30 -90,SG176,station-28902,"['sea_water_salinity', 'sea_water_temperature']"
+29,30 -90,SG182,station-28903,"['sea_water_salinity', 'sea_water_temperature']"
+30,30 -90,SG140,station-28904,"['sea_water_salinity', 'sea_water_temperature']"
+31,30 -90,SG121,station-28906,"['sea_water_salinity', 'sea_water_temperature']"
+32,30 -90,SG171,station-28907,"['sea_water_salinity', 'sea_water_temperature']"
+33,-19.425 -85.078,Woods Hole Stratus Wave Station,station-32012,[None]
+34,-1.136 -81.765,Ecuador INOCAR,station-32066,[None]
+35,0.641 -81.262,ECUADOR INOCAR,station-32067,[None]
+36,-0.888 -81.664,"ECUADOR INOCAR - 58 NM West of Manta, Ecuador",station-32068,[None]
+37,0.255 -81.211,"ECUADOR INOCAR - 71 NM West of Pedernales, Ecuador",station-32069,[None]
+38,5 -95,5N 95W,station-32303,"['sea_water_temperature', 'winds']"
+39,-5 -95,5S 95W,station-32304,"['sea_water_temperature', 'winds']"
+40,-8 -95,8S 95W,station-32305,"['sea_water_temperature', 'winds']"
+41,5 -110,5N 110W,station-32315,"['sea_water_temperature', 'winds']"
+42,2 -110,2N 110W,station-32316,"['sea_water_temperature', 'winds']"
+43,-2 -110,2S 110W,station-32317,"['sea_water_temperature', 'winds']"
+44,-5 -110,5S 110W,station-32318,"['sea_water_temperature', 'winds']"
+45,-8 -110,8S 110W,station-32319,"['sea_water_temperature', 'winds']"
+46,2 -95,2N 95W,station-32320,"['sea_water_temperature', 'winds']"
+47,0 -95,0 95W,station-32321,"['sea_water_temperature', 'winds']"
+48,-2 -95,2S 95W,station-32322,"['sea_water_temperature', 'winds']"
+49,0 -110,0 110W,station-32323,"['sea_water_temperature', 'winds']"
+50,-20.474 -73.421,"180 NM West of Iquique, Chile",station-32401,[None]
+51,-26.743 -73.983,"180 NM  West of Caldera, Chile",station-32402,[None]
+52,-23.163 -72.037,"91NM West of Antofagasta, Chile",station-32403,[None]
+53,-32.118 -73.783,120 NM NW of Valparaiso,station-32404,[None]
+54,4.958 -90.868,"WEST PANAMA - 710 NM WSW of Panama City, Panama",station-32411,[None]
+55,-17.984 -86.374,"SOUTHWEST LIMA - 645 NM SW of Lima, Peru",station-32412,[None]
+56,-7.43 -93.48,"NORTHWEST LIMA - 1000 NM WNW of Lima, Peru",station-32413,[None]
+57,2.998 -79.101,"Colombia   121NM SW of Buenaventura, Colombia",station-32489,[None]
+58,-22 -85,Stratus,station-32st0,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+59,-55 -90,OOI Southern Ocean Buoy,station-34002,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+60,-35.758 -75.243,"119NM NW of Concepcion, Chile",station-34420,[None]
+61,34.724 -72.317,EAST HATTERAS - 150 NM East of Cape Hatteras,station-41001,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+62,31.989 -74.962,SOUTH HATTERAS - 225 NM South of Cape Hatteras,station-41002,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+63,32.501 -79.099,"EDISTO - 41 NM Southeast of Charleston, SC",station-41004,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+64,31.4 -80.866,"GRAYS REEF - 40 NM Southeast of Savannah, GA",station-41008,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+65,28.508 -80.185,"CANAVERAL 20 NM East of Cape Canaveral, FL",station-41009,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+66,28.878 -78.485,CANAVERAL EAST - 120NM East of Cape Canaveral,station-41010,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+67,30.042 -80.534,"St. Augustine, FL 40NM ENE of St Augustine, FL",station-41012,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+68,33.441 -77.764,"Frying Pan Shoals, NC",station-41013,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+69,33.837 -78.477,"Sunset Nearshore, NC (SUN2)",station-41024,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+70,35.025 -75.363,"Diamond Shoals, NC",station-41025,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+71,32.803 -79.624,"Capers Nearshore, SC (CAP2)",station-41029,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+72,32.52 -79.34,Capers Mid-Shelf (CAP 3),station-41030,[None]
+73,32.279 -80.406,"Fripp Nearshore, SC (FRP2)",station-41033,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+74,34.476 -77.28,"Onslow Bay Inner, NC",station-41035,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+75,34.207 -76.949,"Onslow Bay Outer, NC",station-41036,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+76,33.988 -77.362,"Wrightsville Beach Offshore, NC (ILM3)",station-41037,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+77,34.141 -77.715,"Wrightsville Beach Nearshore, NC (ILM2)",station-41038,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+78,14.554 -53.045,NORTH EQUATORIAL ONE- 470 NM East of Martinique,station-41040,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+79,14.311 -46.093,NORTH EQUATORIAL TWO - 890 NM East of Martinique,station-41041,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+80,21.03 -64.79,"NE PUERTO RICO - 170 NM NNE of San Juan, PR",station-41043,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+81,21.582 -58.63,NE ST MARTIN - 330 NM NE St Martin Is,station-41044,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+82,23.822 -68.384,"EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas",station-41046,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+83,27.514 -71.494,"NE BAHAMAS - 350 NM ENE of Nassau, Bahamas",station-41047,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+84,31.831 -69.573,WEST BERMUDA - 240 NM West of Bermuda,station-41048,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+85,27.49 -62.938,SOUTH BERMUDA - 300 NM SSE of Bermuda,station-41049,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+86,18.257 -65.004,"South of St. Thomas, VI",station-41051,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+87,18.249 -64.763,"South of St. John, VI",station-41052,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+88,18.474 -66.099,"San Juan, PR",station-41053,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+89,18.261 -65.464,"Vieques Island, PR",station-41056,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+90,19.833 -70.731,"Puerto Plata, DO",station-41057,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+91,18.476 -65.157,"North of St. Thomas, VI",station-41058,"['air_temperature', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+92,14.824 -51.017,Woods Hole Northwest Tropical Atlantic Wave Station,station-41060,[None]
+93,24.581 -38,Woods Hole SPURS Wave Station,station-41061,[None]
+94,35.778 -75.095,Hatteras Bay (B1),station-41062,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+95,34.782 -75.941,Raleigh Bay (B2),station-41063,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+96,34.207 -76.949,"Onslow Bay Outer, NC (LEJ3)",station-41064,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+97,33.722 -78.016,"Wilmington Harbor, NC - (200)",station-41108,"['sea_water_temperature', 'waves']"
+98,34.484 -77.3,"New River Inlet, NC - 190",station-41109,"['sea_water_temperature', 'waves']"
+99,34.142 -77.715,"Masonboro Inlet, ILM2, NC (150)",station-41110,"['sea_water_temperature', 'waves']"
+100,30.709 -81.292,"Offshore Fernandina Beach, FL (132)",station-41112,"['air_temperature', 'sea_water_temperature', 'waves']"
+101,28.4 -80.533,"Cape Canaveral Nearshore, FL (143)",station-41113,"['sea_water_temperature', 'waves']"
+102,27.551 -80.217,"Fort Pierce, FL (134)",station-41114,"['sea_water_temperature', 'waves']"
+103,18.376 -67.28,"Rincon, Puerto Rico (181)",station-41115,"['sea_water_temperature', 'waves']"
+104,28.523 -80.188,"Oculina Bank North, FL (227)",station-41116,"['sea_water_temperature', 'waves']"
+105,30 -81.08,"St. Augustine, FL (194)",station-41117,"['sea_water_temperature', 'waves']"
+106,28.609 -80.59,"Chester Shoal, FL (228)",station-41118,"['sea_water_temperature', 'waves']"
+107,33.842 -78.483,"Sunset Beach, NC - (245)",station-41119,"['sea_water_temperature', 'waves']"
+108,17.769 -64.723,"Christiansted, St. Croix, Virgin Islands",station-41140,"['sea_water_temperature', 'waves']"
+109,17.684 -64.635,"Fareham, St. Croix, Virgin Islands",station-41141,"['sea_water_temperature', 'waves']"
+110,34.213 -76.949,"Onslow Bay Outer, NC (217)",station-41159,"['sea_water_temperature', 'waves']"
+111,23.37 -67.517,"NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO",station-41420,[None]
+112,23.414 -63.781,"NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is",station-41421,[None]
+113,33 -72.66,"EAST CHARLESTON - 370 NM East of Charleston, SC",station-41424,[None]
+114,28.633 -65.65,"SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda",station-41425,[None]
+115,15 -51,NTAS - Northwest Tropical Atlantic,station-41nt0,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+116,25.942 -89.657,"MID GULF - 180 nm South of Southwest Pass, LA",station-42001,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+117,26.055 -93.646,"WEST GULF - 207 NM East of Brownsville, TX",station-42002,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+118,25.925 -85.615,"East GULF - 208 NM West of Naples, FL",station-42003,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+119,30.09 -88.769,"BILOXI - 22 NM SSE of Biloxi, MS",station-42007,[None]
+120,30.06 -87.548,"ORANGE BEACH - 44 NM SE of Mobile, AL",station-42012,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+121,27.173 -82.924,"C10 - WFS Central Buoy, 25m Isobath",station-42013,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+122,27.91 -95.345,"FREEPORT, TX - 60 NM South of Freeport, TX",station-42019,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+123,26.968 -96.693,"CORPUS CHRISTI, TX - 60NM SSE of Corpus Christi, TX",station-42020,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+124,28.311 -83.306,"C14 - Pasco County Buoy, FL",station-42021,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'winds']"
+125,27.505 -83.741,"C12 - WFS Central Buoy, 50m Isobath",station-42022,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+126,26.01 -83.086,"C13 - WFS South Buoy, 50m Isobath",station-42023,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+127,27.464 -84.219,C16 - W. FL MERHAB,station-42024,[None]
+128,25.171 -83.475,"Loop Current Pressure Point Buoy, 70m Isobath",station-42026,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+129,30.09 -88.212,"West End CP, AL",station-42031,"['sea_water_salinity', 'sea_water_temperature']"
+130,29.215 -94.429,"GALVESTON,TX -  22 NM East of Galveston, TX",station-42035,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+131,28.501 -84.508,"WEST TAMPA  - 112 NM WNW of Tampa, FL",station-42036,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+132,28.787 -86.007,"PENSACOLA - 115NM SSE of Pensacola, FL",station-42039,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+133,29.207 -88.237,"LUKE OFFSHORE TEST PLATFORM - 63 NM South of Dauphin Island, AL",station-42040,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+134,28.982 -94.899,TGLO TABS Buoy B,station-42043,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+135,26.191 -97.051,TGLO TABS Buoy J,station-42044,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'winds']"
+136,26.217 -96.5,TGLO TABS Buoy K,station-42045,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+137,27.89 -94.037,GERG Flower Gardens Buoy N,station-42046,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+138,27.897 -93.597,GERG Flower Gardens Buoy V,station-42047,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+139,27.939 -96.843,TABS D,station-42048,"['currents', 'sea_water_temperature']"
+140,28.351 -96.006,TABS W,station-42049,"['currents', 'sea_water_temperature']"
+141,28.842 -94.242,TABS F,station-42050,"['currents', 'sea_water_temperature']"
+142,29.635 -93.642,TABS R,station-42051,[None]
+143,22.124 -93.941,"BAY OF CAMPECHE - 214 NM NE of Veracruz, MX",station-42055,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+144,19.82 -84.945,"Yucatan Basin - 120 NM ESE of Cozumel, MX",station-42056,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+145,16.908 -81.422,"Western Caribbean - 195 NM WSW of Negril, Jamaica",station-42057,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+146,14.776 -74.548,"Central Caribbean - 210 NM SSE of Kingston, Jamaica",station-42058,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+147,15.252 -67.483,"Eastern Caribbean Sea - 180 NM SSW of Ponce, PR",station-42059,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+148,16.433 -63.331,Caribbean Valley - 63 NM WSW of Montserrat,station-42060,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+149,14.926 -75.046,Near 42058 Central Caribbean,station-42065,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+150,30.05 -88.583,USM-R1,station-42067,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+151,24.5 -81.251,"Big Pine Key, FL (237)",station-42078,"['sea_water_temperature', 'waves']"
+152,24.535 -81.242,"Bahia Honda Key, FL (242)",station-42079,"['sea_water_temperature', 'waves']"
+153,24.396 -81.934,"Offshore Sand Key, FL",station-42080,"['currents', 'waves', 'winds']"
+154,17.869 -66.532,"Southeast of Ponce, PR",station-42085,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+155,11.185 -60.848,"Buccoo Reef, Buccoo Marine Park, TT",station-42087,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+156,11.301 -60.521,"Angel Reef, TT",station-42088,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+157,19.699 -80.061,"Little Cayman Research Center, CYM",station-42089,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+158,18.432 -69.58,"Catuan Wreck, Boca Chica, DR",station-42090,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+159,27.766 -96.979,"Aransas Pass Channel Entrance S, TX (252)",station-42092,"['sea_water_temperature', 'waves']"
+160,29.017 -89.832,"Grand Isle Outer, LA (247)",station-42093,"['sea_water_temperature', 'waves']"
+161,29.085 -89.907,"Grand Isle, LA (246)",station-42094,"['sea_water_temperature', 'waves']"
+162,24.407 -81.967,"Satan Shoal, FL (244)",station-42095,"['air_temperature', 'sea_water_temperature', 'waves']"
+163,25.701 -83.65,"Pulley Ridge, FL (226)",station-42097,"['sea_water_temperature', 'waves']"
+164,27.59 -82.931,"Egmont Channel Entrance, FL (214)",station-42098,"['sea_water_temperature', 'waves']"
+165,27.345 -84.275,"Offshore St. Petersburg, FL (144)",station-42099,"['sea_water_temperature', 'waves']"
+166,26.689 -90.459,BW Pioneer buoy - C16471 - Walker Ridge 249,station-42360,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+167,27.55 -92.49,Auger - Garden Banks 426,station-42361,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'winds']"
+168,27.795 -90.648,Brutus TLP - Green Canyon 158,station-42362,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'winds']"
+169,28.16 -89.22,Mars - Mississippi Canyon 807,station-42363,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'winds']"
+170,29.06 -88.09,Ram Powell TLP - Viosca Knoll 956,station-42364,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'winds']"
+171,28.154 -89.104,Ursa TLP - Mississippi Canyon 809A,station-42365,"['air_temperature', 'currents', 'winds']"
+172,27.122 -91.959,Red Hawk SPAR - Garden Banks 877,station-42366,[None]
+173,28.742 -88.826,Matterhorn TLP - Mississippi Canyon 243,station-42367,[None]
+174,27.204 -92.202,Magnolia TLP - Garden Banks 783A,station-42368,[None]
+175,27.207 -90.283,Mad Dog RTMM - Green Canyon 782,station-42369,"['air_temperature', 'currents', 'winds']"
+176,27.322 -90.536,Holstein Spar- Green Canyon 645,station-42370,"['air_temperature', 'currents', 'winds']"
+177,27.78 -90.518,Genesis SPAR - Green Canyon 205A,station-42372,[None]
+178,27.354 -94.625,Boomvang - East Breaks 643,station-42373,[None]
+179,28.866 -88.056,Horn Mountain SPAR - Mississippi Canyon 126 and 127,station-42374,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'winds']"
+180,28.521 -88.289,Na Kika FPU - Mississippi Canyon 474,station-42375,"['currents', 'sea_water_temperature', 'winds']"
+181,29.108 -87.944,Marlin TLP - Viosca Knoll 915,station-42376,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'winds']"
+182,27.293 -90.968,Constitution Truss Spar - Green Canyon 680,station-42377,[None]
+183,27.362 -90.181,Marco Polo TLP - Green Canyon 608,station-42379,[None]
+184,28.209 -88.737,Devil's Tower SPAR - Mississippi Canyon 773,station-42380,[None]
+185,28.221 -89.615,Gomez Hub (ATP Innovator) - Mississippi Canyon 711A,station-42381,[None]
+186,27.304 -93.538,Gunnison - Garden Banks 668,station-42382,[None]
+187,27.37 -89.924,Neptune TLP - Green Canyon 613,station-42383,[None]
+188,27.993 -90.326,Prince TLP - Ewing Bank 1003,station-42384,[None]
+189,28.34 -88.266,Blind Faith Semisub - Mississippi Canyon 696,station-42385,[None]
+190,27.326 -90.714,Tahiti Spar - Green Canyon 641,station-42386,[None]
+191,28.267 -88.399,Thunder Hawk FPU - Mississippi Canyon 734,station-42387,[None]
+192,27.73 -91.109,Helix Producer 1 - Green Canyon 237,station-42388,[None]
+193,26.129 -94.898,Perdido - Alaminos Canyon 857,station-42390,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'winds']"
+194,28.034 -89.101,Telemark Hub (ATP Titan) - Mississippi Canyon 941,station-42391,[None]
+195,27.301 -90.135,Shenzi TLP - Green Canyon 653,station-42393,[None]
+196,28.157 -89.24,Olympus TLP - Mississippi Canyon 807,station-42394,"['air_temperature', 'currents', 'winds']"
+197,26.404 -90.792,Shell Alcyone Buoy - C16522 - Walker Ridge 552,station-42395,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+198,26.235 -91.261,Jack & St Malo FPU - Walker Ridge Block 758,station-42396,[None]
+199,28.755 -88.267,Delta House FPU - Mississippi Canyon 254,station-42397,[None]
+200,26.132 -92.04,Lucius SPAR - Keathley Canyon 875,station-42398,[None]
+201,27.111 -92.04,Heidelberg - Green Canyon 860,station-42399,[None]
+202,28.574 -87.934,Shell Appomattox - MC 437,station-42400,[None]
+203,27.509 -90.556,Stampede TLP - Green Canyon 468,station-42401,[None]
+204,15.229 -68.188,"SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR",station-42407,[None]
+205,25.2 -87,"EAST GULF of MEXICO - 225NM WNW of Loggerhead Key, FL",station-42408,[None]
+206,25.911 -89.264,"GULF OF MEXICO - 247 NM South of New Orleans, LA",station-42409,[None]
+207,27.401 -85.671,DART WAVE GLIDER STATION,station-42429,[None]
+208,27.57 -92.395,Noble Globetrotter I - Garden Banks 427,station-42851,[None]
+209,28.501 -89.769,Who Dat FPS - Mississippi Canyon 547,station-42852,[None]
+210,27.461 -93.569,West Capricorn - Garden Banks 492,station-42853,[None]
+211,27.768 -90.798,Atwood Condor - Green Canyon 199,station-42854,[None]
+212,28.201 -88.766,ENSCO 8506 - Mississippi Canyon 772,station-42855,[None]
+213,26.52 -90.531,Titanium Explorer - Walker Ridge 425,station-42856,[None]
+214,27.944 -90.879,Noble Don Taylor - GC 21,station-42857,[None]
+215,27.962 -89.048,Stena IceMAX - Atwater Valley 18,station-42858,[None]
+216,27.514 -90.376,Discoverer 534 (D534) - Green Canyon 516,station-42859,[None]
+217,27.937 -90.01,Atwood Advantage - Mississippi Canyon 40,station-42860,[None]
+218,28.369 -87.924,Deepwater Nautilus -  Mississippi Canyon 657,station-42861,[None]
+219,27.57 -92.396,Noble Jim Thompson - Garden Banks 427,station-42862,[None]
+220,28.962 -88.696,Ocean Victory - Mississippi Canyon 26,station-42863,[None]
+221,28.003 -89.013,Thalassa - Mississippi Canyon 943,station-42864,[None]
+222,28.466 -88.294,BlackHornet - MC518,station-42865,[None]
+223,28.491 -88.997,Transocean Amirante - Mississippi Canyon 460,station-42866,[None]
+224,28.183 -88.629,Discoverer Deep Seas - Mississippi Canyon 819,station-42867,[None]
+225,28.214 -88.519,Discoverer Enterprise - Mississippi Canyon 777,station-42868,[None]
+226,26.995 -92.23,Pacific Khamsin - Garden Banks 1003,station-42869,[None]
+227,24.354 -96.267,La Muralla - Chimalli - Perdido Block 3,station-42870,[None]
+228,27.331 -89.868,GSF CR Luigs - Atwater Valley 617,station-42871,[None]
+229,28.738 -88.366,Deepwater Horizon,station-42872,[None]
+230,26.453 -90.77,Pontus - Walker Ridge 508,station-42873,[None]
+231,27.059 -91.199,Deepwater Asgard - Greeni Canyon 895,station-42874,[None]
+232,28.154 -89.836,Noble Amos Runner - Mississippi Canyon 794,station-42875,[None]
+233,26.298 -91.093,Deepwater Conqueror - Walker Ridge 634,station-42876,[None]
+234,28.18 -89.29,Cajun Express - Mississippi Canyon 762,station-42877,[None]
+235,28.246 -88.928,Noble Paul Romano - Mississippi Canyon 725,station-42878,[None]
+236,28.274 -88.839,Ocean BlackRhino - MC683,station-42879,[None]
+237,27.146 -90.319,West Auriga - Green Canyon 825,station-42880,[None]
+238,27.554 -88.361,Transocean Marianas - Atwater Valley 428,station-42881,[None]
+239,28.185 -89.131,Noble Globetrotter II - MC765,station-42882,[None]
+240,26.515 -94.212,Maersk Valiant - Alaminos Canyon 475,station-42883,[None]
+241,28.893 -88.104,Ocean Blackhawk - MC081,station-42884,[None]
+242,28.249 -88.828,GSF Development Driller II - Mississippi Canyon 727 #2,station-42885,[None]
+243,28.17 -89.24,Discoverer Spirit - Mississippi Canyon 762,station-42886,[None]
+244,28.191 -88.496,Thunder Horse Semisub - Mississippi Canyon 778,station-42887,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'winds']"
+245,26.305 -91.073,Rowan Relentless - Walker Ridge 678,station-42888,[None]
+246,28.394 -89.465,Medusa Spar - Mississippi Canyon 582A,station-42889,[None]
+247,27.625 -90.441,Front Runner SPAR - Green Canyon 338A,station-42890,[None]
+248,27.224 -90.014,West Vela - Green Canyon 743,station-42891,[None]
+249,27.599 -92.298,Ocean Baroness - Garden Banks 386,station-42892,[None]
+250,27.146 -90.319,ENSCO DS-3 - Green Canyon 825,station-42893,[None]
+251,28.77 -88.834,Noble Lorris Bouzigard - Mississippi Canyon 199,station-42894,[None]
+252,28.273 -88.662,Island Performer - Mississippi Canyon 730,station-42895,[None]
+253,28.13 -89.999,Sevan Louisiana - Ewing Banks 833,station-42896,[None]
+254,27.355 -89.797,GSF Development Driller I - Atwater Valley 575,station-42897,[None]
+255,27.026 -92.237,Rowan Reliance - Keathley Canyon 129,station-42898,[None]
+256,26.066 -92.06,Ocean Endeavor - Keathley Canyon 919,station-42899,[None]
+257,28.36 -89.423,Ocean Saratoga - Mississippi Canyon 583,station-42900,[None]
+258,28.221 -88.533,Q5000 - Mississippi Canyon 777,station-42901,[None]
+259,28.622 -87.984,Deepwater Proteus - Mississippi Canyon 392,station-42902,[None]
+260,28.845 -87.843,Valaris Renaissance - De Soto Canyon 134,station-42903,[None]
+261,28.085 -87.986,Independence Hub -  Mississippi Canyon 920,station-42904,[None]
+262,26.726 -90.508,"P10,000 - Walker Ridge 249",station-42905,[None]
+263,27.032 -92.074,Poseidon - GB962,station-42906,[None]
+264,27.128 -90.342,Ocean BlackLion - Green Canyon 825,station-42907,[None]
+265,26.909 -93.305,West Sirius - Keathley Canyon 57,station-42908,[None]
+266,28.201 -88.752,ENSCO 8500 - Mississippi Canyon 772,station-42909,[None]
+267,27.847 -90.719,Noble Driller - Green Canyon 113,station-42910,[None]
+268,27.464 -92.433,Ocean Monarch - Garden Banks 515 #3,station-42911,[None]
+269,27.233 -91.143,Discoverer Clear Leader - Garden Banks 720,station-42912,[None]
+270,28.509 -88.031,ENSCO 8501 - Mississippi Canyon 479,station-42913,[None]
+271,26.806 -90.567,Discoverer Americas - Walker Ridge 160,station-42914,[None]
+272,28.01 -89.043,Maersk Developer - Mississippi Canyon 942,station-42915,[None]
+273,28.445 -88.277,Development Driller III -  Mississippi Canyon 562,station-42916,[None]
+274,27.691 -91.114,Discoverer Inspiration - Green Canyon 280,station-42917,[None]
+275,27.691 -91.114,Noble Danny Adkins - Green Canyon 280,station-42918,[None]
+276,28.26 -88.885,Stena Forth - Mississippi Canyon 725,station-42919,[None]
+277,26.865 -93.661,ENSCO DS-4 - Keathley Canyon 93,station-42920,[None]
+278,28.354 -87.82,Deepwater Pathfinder - DeSoto Canyon 618 #1,station-42921,[None]
+279,26.449 -90.784,Noble Jim Day - Walker Ridge 508,station-42922,[None]
+280,27.747 -91.088,ENSCO 8502 - Green Canyon 237,station-42923,[None]
+281,28.243 -88.827,ENSCO 8503 - Mississippi Canyon 727,station-42924,[None]
+282,28.301 -88.127,ENSCO DS-5 - Mississippi Canyon 697,station-42925,[None]
+283,26.201 -92.871,Discoverer India - Keathley Canyon 770,station-42926,[None]
+284,28.418 -88.032,Noble Bully I - Mississippi Canyon 567,station-42927,[None]
+285,27.59 -90.311,ENSCO 8505 - GC385,station-42928,[None]
+286,26.949 -93.442,Pacific Santa Ana -  Keathley Canyon 10,station-42929,[None]
+287,26.906 -94.906,Deepwater Champion - Alaminos Canyon 65,station-42930,[None]
+288,27.601 -91.354,Noble Bob Douglas - Green Canyon 364,station-42931,[None]
+289,27.317 -90.111,Deepwater Invictus - Green Canyon 653,station-42932,[None]
+290,27.333 -90.599,Noble Sam Croft - Green Canyon 643,station-42933,[None]
+291,28.308 -87.318,Pacific Sharav - Mississippi Canyon 700,station-42934,[None]
+292,28.235 -88.995,Tubular Bells Spar - Green Canyon 724,station-42935,[None]
+293,27.934 -89.961,Rowan Resolute - Viosca Knoll MC40,station-42936,[None]
+294,28.784 -88.235,Maersk Viking - Mississippi Canyon 211,station-42937,[None]
+295,28.257 -89.274,Ocean Onyx - Mississippi Canyon 674,station-42938,[None]
+296,28.859 -88.044,Noble Tom Madden - Mississippi Canyon 84,station-42939,[None]
+297,28.079 -89.982,West Neptune - EW877,station-42940,[None]
+298,8 -110,8N 110W,station-43001,"['sea_water_temperature', 'winds']"
+299,10.051 -125.032,Woods Hole Spurs Wave Station,station-43010,[None]
+300,8 -95,8N 95W,station-43301,"['sea_water_temperature', 'winds']"
+301,16.045 -106.967,"SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX",station-43412,[None]
+302,11.012 -100.083,"SOUTH ACAPULCO - 360NM South of Acapulco, MX",station-43413,[None]
+303,38.484 -70.433,"HOTEL 200NM East of Cape May,NJ",station-44004,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+304,43.201 -69.127,"GULF OF MAINE - 78 NM East of Portsmouth, NH",station-44005,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+305,43.525 -70.14,"PORTLAND - 12 NM Southeast of Portland,ME",station-44007,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+306,40.504 -69.248,NANTUCKET 54 NM Southeast of Nantucket,station-44008,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+307,38.457 -74.702,"DELAWARE BAY 26 NM Southeast of Cape May, NJ",station-44009,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+308,41.07 -66.588,"GEORGES BANK 170 NM East of Hyannis, MA",station-44011,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+309,42.346 -70.651,"BOSTON 16 NM East of Boston, MA",station-44013,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+310,36.609 -74.842,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA",station-44014,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+311,40.693 -72.049,"MONTAUK POINT - 23 NM SSW of Montauk Point, NY",station-44017,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+312,42.206 -70.143,"CAPE COD - 9 NM North of Provincetown, MA",station-44018,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+313,41.493 -70.279,NANTUCKET SOUND,station-44020,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+314,43.762 -69.988,Buoy D - New Meadows River,station-44021,"['air_temperature', 'sea_water_temperature', 'waves', 'winds']"
+315,40.883 -73.728,Execution Rocks,station-44022,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+316,42.325 -65.909,Buoy N01 - Northeast Channel,station-44024,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+317,40.251 -73.164,"LONG ISLAND - 30 NM South of Islip, NY",station-44025,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+318,44.283 -67.3,"Jonesport, ME - 20 NM SE of Jonesport, ME",station-44027,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+319,42.523 -70.566,Buoy A01 - Massachusetts Bay,station-44029,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+320,43.179 -70.426,Buoy B01 - Western Maine Shelf,station-44030,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+321,43.57 -70.06,Buoy C0201 - Casco Bay,station-44031,"['sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+322,43.715 -69.355,Buoy E01 - Central Maine Shelf,station-44032,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+323,44.055 -68.996,Buoy F01 - Penobscot Bay,station-44033,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+324,44.103 -68.112,Buoy I01 - Eastern Maine Shelf,station-44034,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+325,44.89 -67.02,Buoy J0201 - Cobscook Bay,station-44035,"['sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+326,43.497 -67.876,Buoy M01 - Jordan Basin,station-44037,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+327,43.633 -66.55,Buoy L0102 - Scotian Shelf,station-44038,"['sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+328,41.138 -72.655,Central Long Island Sound,station-44039,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+329,40.956 -73.58,Western Long Island Sound,station-44040,"['air_temperature', 'air_pressure_at_sea_level', 'waves', 'winds']"
+330,37.212 -76.785,"Jamestown, VA",station-44041,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+331,38.033 -76.335,"Potomac, MD",station-44042,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+332,39.152 -76.391,"Patapsco, MD",station-44043,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+333,38.883 -75.183,Lower Delaware Bay Buoy,station-44054,"['sea_water_temperature', 'waves']"
+334,39.122 -75.256,Central Delaware Bay,station-44055,"['sea_water_temperature', 'waves']"
+335,36.2 -75.714,"Duck FRF, NC",station-44056,"['sea_water_temperature', 'waves']"
+336,39.54 -76.074,"Susquehanna, MD",station-44057,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+337,37.567 -76.257,"Stingray Point, VA",station-44058,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+338,36.846 -76.298,"Norfolk, VA",station-44059,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+339,41.263 -72.067,Eastern Long Island Sound,station-44060,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+340,38.788 -77.036,"Upper Potomac, MD",station-44061,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+341,38.556 -76.415,"Gooses Reef, MD",station-44062,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+342,38.963 -76.448,"Annapolis, MD",station-44063,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+343,36.998 -76.087,"First Landing, VA",station-44064,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+344,40.369 -73.703,"New York Harbor Entrance - 15 NM SE of Breezy Point , NY",station-44065,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+345,39.618 -72.644,"Texas Tower #4 - 75 NM East of Long Beach, NJ",station-44066,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+346,38.368 -76.996,"Potomac River, Near HWY 301",station-44067,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+347,37.314 -77.191,VCU Rice Rivers Center,station-44068,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+348,40.698 -73.087,Great South Bay,station-44069,"['air_temperature', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+349,41.392 -71.004,Buzzards Bay MA. Offshore,station-44070,[None]
+350,37.201 -76.266,"York Spit, VA",station-44072,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+351,43.02 -70.54,CO2 Gulf of Maine Buoy,station-44073,"['air_temperature', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+352,40.363 -70.883,OOI Pioneer Inshore Surface Mooring,station-44075,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+353,40.137 -70.775,OOI Pioneer Central Surface Mooring,station-44076,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+354,39.94 -70.883,OOI Pioneer Offshore Surface Mooring,station-44077,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+355,59.94 -39.52,OOI Irminger Sea Surface Mooring,station-44078,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+356,36.001 -75.421,"Nags Head, NC (243)",station-44086,"['sea_water_temperature', 'waves']"
+357,37.025 -76.151,"Thimble Shoal, VA (240)",station-44087,"['sea_water_temperature', 'waves']"
+358,36.611 -74.841,"Virginia Beach Offshore, VA (171)",station-44088,"['air_temperature', 'sea_water_temperature', 'waves']"
+359,37.754 -75.325,"Wallops Island, VA (224)",station-44089,"['sea_water_temperature', 'waves']"
+360,41.84 -70.329,"Cape Cod Bay, MA (221)",station-44090,"['sea_water_temperature', 'waves']"
+361,39.768 -73.77,"Barnegat, NJ (209)",station-44091,"['sea_water_temperature', 'waves']"
+362,42.942 -70.632,"Isle of Shoals, NH (211)",station-44092,"['sea_water_temperature', 'waves']"
+363,36.872 -75.492,"Offshore Wind Energy Area, VA (210)",station-44093,"['sea_water_temperature', 'waves']"
+364,40.585 -73.106,"Fire Island Nearshore, NY (207)",station-44094,"['sea_water_temperature', 'waves']"
+365,35.75 -75.33,"Oregon Inlet, NC (192)",station-44095,"['sea_water_temperature', 'waves']"
+366,37.023 -75.809,"Cape Charles, VA (186)",station-44096,"['sea_water_temperature', 'waves']"
+367,40.967 -71.126,"Block Island, RI  (154)",station-44097,"['sea_water_temperature', 'waves']"
+368,42.8 -70.171,"Jeffrey's Ledge, NH (160)",station-44098,"['sea_water_temperature', 'waves']"
+369,36.915 -75.722,"Cape Henry, VA (147)",station-44099,"['sea_water_temperature', 'waves']"
+370,36.258 -75.593,"Duck FRF 26m, NC (430)",station-44100,"['sea_water_temperature', 'waves']"
+371,44.5 -63.408,"Halifax Harbor, NS, Canada - 176",station-44172,"['sea_water_temperature', 'waves']"
+372,37.592 -50.03,"NORTHEAST CASTLE ROCK SEAMOUNT - 620NM South of St John's Newfoundland, CN",station-44401,[None]
+373,39.289 -70.639,"SOUTHEAST BLOCK CANYON - 130 NM SE of Fire Island, NY",station-44402,[None]
+374,41.904 -61.655,"SABLE ISLAND BANK - 437 NM E of Boston, MA",station-44403,[None]
+375,48.061 -87.793,"MID SUPERIOR- 60 NM North Northeast Hancock, MI",station-45001,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+376,45.344 -86.411,NORTH MICHIGAN- Halfway between North Manitou and Washington Islands.,station-45002,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+377,45.351 -82.84,"NORTH HURON - 32NM Northeast of Alpena, MI",station-45003,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+378,47.585 -86.585,"EAST SUPERIOR -70 NM NE Marquette, MI",station-45004,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+379,41.677 -82.398,"WEST ERIE - 16 NM NW of Lorain, OH",station-45005,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+380,47.335 -89.793,"WEST SUPERIOR - 30NM NE of Outer Island, WI",station-45006,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+381,42.674 -87.026,"SOUTH MICHIGAN - 43NM East Southeast of Milwaukee, WI",station-45007,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+382,44.283 -82.416,"SOUTH HURON - 43NM East of Oscoda, MI",station-45008,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+383,43.621 -77.401,"EAST Lake Ontario  - 20NM North Northeast of Rochester, NY",station-45012,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+384,43.1 -87.85,"ATW20 - Atwater Park, WI",station-45013,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+385,44.802 -87.763,"GB17 - South Green Bay, WI",station-45014,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+386,41.714 -87.527,"Calumet Beach, Chicago, IL",station-45015,"['sea_water_temperature', 'waves']"
+387,41.783 -87.573,"Sixth-third St. Beach, Chicago, IL",station-45016,"['sea_water_temperature', 'waves']"
+388,41.903 -87.622,"Oak St. Beach, Chicago, IL",station-45017,"['sea_water_temperature', 'waves']"
+389,41.968 -87.637,"Montrose Ave. Beach, Chicago, IL",station-45018,"['sea_water_temperature', 'waves']"
+390,41.979 -87.649,"Foster Ave. Beach, Chicago, IL",station-45019,"['sea_water_temperature', 'waves']"
+391,44.789 -85.604,"Grand Traverse Bay South Buoy, MI",station-45020,"['air_temperature', 'sea_water_temperature', 'waves', 'winds']"
+392,45.048 -85.493,"Traverse Bay #3, MI",station-45021,"['waves', 'winds']"
+393,45.405 -85.086,"Little Traverse Bay Buoy, MI",station-45022,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+394,47.27 -88.607,"North Entry Buoy, North Keweenaw Peninsula, MI",station-45023,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+395,43.955 -86.554,"Ludington Buoy, MI",station-45024,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+396,46.969 -88.398,"South Entry Buoy, South Keweenaw Peninsula, MI",station-45025,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+397,41.982 -86.619,"Cook Nuclear Plant Buoy, Stevensville, MI",station-45026,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+398,46.86 -91.93,"McQuade Harbor Nearshore, MN",station-45027,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+399,46.814 -91.829,Western Lake Superior,station-45028,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+400,42.9 -86.272,"Holland Buoy, MI",station-45029,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+401,43.185 -86.355,"Muskegon Buoy, MI",station-45161,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+402,44.988 -83.27,"Thunder Bay Buoy, Alpena, MI",station-45162,"['air_temperature', 'sea_water_temperature', 'waves', 'winds']"
+403,43.983 -83.595,"Saginaw Bay Buoy, MI",station-45163,"['air_temperature', 'sea_water_temperature', 'waves', 'winds']"
+404,41.732 -81.694,"Cleveland Buoy, OH",station-45164,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+405,41.702 -83.261,"Toledo Water Intake Buoy, Oregon, OH",station-45165,"['air_temperature', 'sea_water_temperature', 'waves', 'winds']"
+406,44.785 -73.258,Lake Champlain - Inland Sea,station-45166,"['air_temperature', 'sea_water_temperature', 'waves', 'winds']"
+407,42.185 -80.135,"Erie Nearshore Buoy, Erie, PA",station-45167,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+408,42.397 -86.331,"South Haven Buoy, MI",station-45168,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+409,41.615 -81.821,"Lakewood Buoy, OH",station-45169,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+410,41.755 -86.968,"Michigan City Buoy, IN",station-45170,"['air_temperature', 'sea_water_temperature', 'waves', 'winds']"
+411,46.724 -87.411,"Granite Island Buoy, Granite Island, MI",station-45171,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+412,46.74 -85.98,"Grand Marais Buoy, Grand Marais, MI",station-45172,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+413,46.573 -86.572,"Munising Buoy, Munising, MI",station-45173,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+414,42.135 -87.655,"Wilmette Buoy, IL",station-45174,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+415,45.825 -84.772,"Mackinac Straits West, Mackinaw City, MI",station-45175,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+416,41.55 -81.765,"Cleveland Intake Crib Buoy, OH",station-45176,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+417,41.894 -87.613,"Ohio St. Beach, Chicago, IL",station-45177,"['sea_water_temperature', 'waves']"
+418,44.603 -73.394,"1 NM SE of Valcour Island, NY",station-45178,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+419,47.195 -87.224,Stannard Rock Buoy,station-45179,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+420,48.034 -87.73,"Isle of Royale East, MI (230)",station-45180,"['sea_water_temperature', 'waves']"
+421,44.982 -85.831,Sleeping Bear Dunes,station-45183,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+422,42.368 -87.795,"Waukegan Buoy, IL",station-45186,"['air_temperature', 'sea_water_temperature', 'waves', 'winds']"
+423,42.491 -87.779,"Winthrop Harbor Buoy, IL",station-45187,"['air_temperature', 'sea_water_temperature', 'waves', 'winds']"
+424,44.094 -73.423,Champlain Bridge Buoy,station-45188,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+425,45.804 -84.792,"McGulpin Point North, MI (253)",station-45194,"['air_temperature', 'waves']"
+426,56.232 -147.949,"WESTERN GULF OF ALASKA  - 175NM SE of Kodiak, AK",station-46001,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+427,42.658 -130.502,"WEST OREGON - 275NM West of Coos Bay, OR",station-46002,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+428,46.134 -131.079,"WEST WASHINGTON - 300NM West of Aberdeen, WA",station-46005,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+429,40.766 -137.379,"SOUTHEAST PAPA - 600NM West of Eureka, CA",station-46006,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+430,34.956 -121.019,"SANTA MARIA - 21NM NW of Point Arguello, CA",station-46011,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+431,37.356 -122.881,"HALF MOON BAY - 24NM SSW of San Francisco, CA",station-46012,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+432,38.253 -123.303,"BODEGA BAY - 48NM NW of San Francisco, CA",station-46013,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+433,39.231 -123.974,"PT ARENA - 19NM North of Point Arena, CA",station-46014,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+434,42.752 -124.844,"PORT ORFORD - 15 NM West of Port Orford, OR",station-46015,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+435,40.748 -124.527,"EEL RIVER - 17NM WSW of Eureka, CA",station-46022,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+436,34.714 -120.967,"PT ARGUELLO - 17NM WNW of Point Arguello, CA",station-46023,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+437,33.758 -119.044,"Santa Monica Basin - 33NM WSW of Santa Monica, CA",station-46025,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+438,37.754 -122.839,"SAN FRANCISCO - 18NM West of San Francisco, CA",station-46026,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+439,41.852 -124.38,"ST GEORGES - 8 NM NW of Crescent City, CA",station-46027,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+440,35.77 -121.903,"CAPE SAN MARTIN - 55NM West NW of Morro Bay, CA",station-46028,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+441,46.143 -124.485,COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth,station-46029,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+442,57.016 -177.703,"CENTRAL BERING SEA - 310 NM North of Adak, AK",station-46035,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+443,47.353 -124.742,"CAPE ELIZABETH- 45NM NW of Aberdeen, WA",station-46041,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+444,36.785 -122.398,"MONTEREY - 27NM WNW of Monterey, CA",station-46042,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+445,32.404 -119.506,"TANNER BANK - 121 NM West of San Diego, CA",station-46047,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+446,44.669 -124.546,"STONEWALL BANK - 20NM West of Newport, OR",station-46050,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+447,34.241 -119.839,"EAST SANTA BARBARA  - 12NM Southwest of Santa Barbara, CA",station-46053,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+448,34.273 -120.47,"WEST SANTA BARBARA  38 NM West of Santa Barbara, CA",station-46054,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+449,38.094 -129.951,"WEST CALIFORNIA - 357NM West of San Francisco, CA",station-46059,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+450,60.587 -146.819,"WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK",station-46060,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+451,60.238 -146.833,"Seal Rocks - Between Montague and Hinchinbrook Islands, AK",station-46061,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+452,34.273 -120.699,"Pt.Conception, CA - 50NM West of Santa Barbara, CA",station-46063,"['currents', 'sea_water_temperature', 'waves']"
+453,52.765 -155.009,"SOUTH KODIAK - 310NM SSW of Kodiak, AK",station-46066,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+454,33.677 -120.213,SOUTH SANTA ROSA IS. CA,station-46069,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+455,55.008 175.183,"SOUTHWEST BERING SEA - 142NM NNE OF ATTU IS, AK",station-46070,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+456,51.125 179.012,"WESTERN ALEUTIANS - 14NM SOUTH OF AMCHITKA IS, AK",station-46071,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+457,51.672 -172.088,CENTRAL ALEUTIANS 230 NM SW Dutch Harbor,station-46072,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+458,55.009 -172.002,"SOUTHEAST BERING SEA - 205 NM WNW of Dutch Harbor, AK",station-46073,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+459,53.983 -160.817,"SHUMAGIN ISLANDS - 85NM South of Sand Point, AK",station-46075,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+460,59.471 -148.009,"CAPE CLEARE - 17 NM South of Montague Is,  AK",station-46076,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+461,57.902 -154.176,"SHELIKOF STRAIT, AK",station-46077,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+462,55.556 -152.582,"ALBATROSS BANK - 104NM South of Kodiak Is., AK",station-46078,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+463,57.947 -150.042,"PORTLOCK BANK- 76 NM ENE of Kodiak, AK",station-46080,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+464,60.802 -148.283,Western Prince William Sound,station-46081,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'currents', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+465,59.681 -143.372,"Cape Suckling - 35 NM SE of Kayak Is, AK",station-46082,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+466,58.27 -138.019,"FAIRWEATHER GROUND - 105 NM West  of Juneau, AK",station-46083,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+467,56.622 -136.102,"CAPE EDGECUMBE - 25NM SSW of Cape Edgecumbe, AK",station-46084,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+468,55.883 -142.882,"CENTRAL GULF OF ALASKA -  265NM West of Cape Ommaney, AK",station-46085,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+469,32.499 -118.052,"SAN CLEMENTE BASIN - 27NM SE Of San Clemente Is, CA",station-46086,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+470,48.493 -124.726,"Neah Bay - 6 NM North of Cape Flattery, WA     (Traffic Separation Lighted Buoy)",station-46087,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+471,48.332 -123.179,"NEW DUNGENESS - 17 NM NE of Port Angeles, WA",station-46088,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+472,45.925 -125.771,"TILLAMOOK, OR - 85 NM WNW of Tillamook, OR",station-46089,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+473,36.835 -121.899,MBM0,station-46091,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+474,36.751 -122.029,MBM1,station-46092,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+475,36.69 -122.41,MBM2,station-46093,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+476,44.642 -124.3,"Buoy NH-10 - West of Newport, OR",station-46094,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+477,46.173 -124.127,Columbia River Entrance - SATURN Station #02 Offshore,station-46096,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+478,44.639 -124.304,OOI Newport Shelf,station-46097,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+479,44.381 -124.956,OOI Waldport Offshore,station-46098,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+480,46.986 -124.566,OOI Westport Shelf,station-46099,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+481,46.851 -124.972,OOI Westport Offshore,station-46100,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+482,59.049 -152.233,"South Cook Inlet - 10NM NW of East Amatuli Light, AK",station-46105,[None]
+483,59.76 -152.09,Central Cook Inlet AK,station-46106,"['air_temperature', 'air_pressure_at_sea_level', 'waves', 'winds']"
+484,59.925 -147.992,Montague Strait,station-46107,[None]
+485,59.596 -151.829,Lower Cook Inlet (204),station-46108,"['air_temperature', 'sea_water_temperature', 'waves']"
+486,48.123 -123.395,Port Angeles Buoy,station-46109,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+487,48.115 -123.032,Sequim Buoy,station-46110,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+488,48.131 -122.748,Fort Worden Buoy,station-46111,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+489,48.1 -122.73,Marrowstone Buoy,station-46112,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+490,47.73 -122.646,Poulsbo Buoy,station-46113,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+491,36.7 -122.343,"West Monterey Bay, CA (185)",station-46114,"['sea_water_temperature', 'waves']"
+492,57.069 -177.75,Bering Sea,station-46115,[None]
+493,46.287 -124.016,"SATURN Estuary Station #07, Baker Bay, WA",station-46116,"['sea_water_salinity', 'sea_water_temperature']"
+494,46.176 -123.869,"SATURN Estuary Station #09, Youngs Bay, OR",station-46117,"['sea_water_salinity', 'sea_water_temperature']"
+495,48.724 -122.576,Se'lhaem Bellingham Bay,station-46118,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+496,47.967 -124.95,Cha'Ba La Push,station-46119,"['air_temperature', 'sea_water_temperature', 'winds']"
+497,47.761 -122.397,"Pt Wells, WA (U of Wash)",station-46120,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+498,47.28 -122.73,"Carr Inlet, WA (U of Wash)",station-46121,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+499,47.803 -122.803,"Dabob Bay, WA (U of Wash)",station-46122,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature']"
+500,47.375 -123.008,"Twanoh - Hood Canal, WA (U of Wash)",station-46123,"['air_temperature', 'sea_water_salinity', 'sea_water_temperature']"
+501,47.422 -123.113,"Hoodsport - Hood Canal, WA (U of Wash)",station-46124,"['air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature']"
+502,47.907 -122.627,"Hansville - Hood Canal, WA",station-46125,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+503,53.951 -166.602,Wide Bay (Shell),station-46126,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+504,46.215 -124.063,"SATURN Offshore Station #10, Columbia River, South Jetty, OR",station-46127,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+505,43.292 -124.538,"Buoy CB-06 - West of Coos Bay, OR",station-46128,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+506,46.857 -124.244,"Grays Harbor, WA (036)",station-46211,"['sea_water_temperature', 'waves']"
+507,40.753 -124.313,"Humboldt Bay South Spit, CA (128)",station-46212,"['sea_water_temperature', 'waves']"
+508,40.295 -124.732,"Cape Mendocino, CA (094)",station-46213,"['sea_water_temperature', 'waves']"
+509,37.937 -123.463,"Point Reyes, CA (029)",station-46214,"['sea_water_temperature', 'waves']"
+510,35.204 -120.859,"Diablo Canyon, CA (076)",station-46215,"['sea_water_temperature', 'waves']"
+511,34.333 -119.803,"Goleta Point, CA (107)",station-46216,"['sea_water_temperature', 'waves']"
+512,34.167 -119.435,"Anacapa Passage, CA (111)",station-46217,"['sea_water_temperature', 'waves']"
+513,34.452 -120.78,"Harvest, CA (071)",station-46218,"['sea_water_temperature', 'waves']"
+514,33.219 -119.872,"San Nicolas Island, CA (067)",station-46219,"['sea_water_temperature', 'waves']"
+515,33.86 -118.641,"Santa Monica Bay, CA (028)",station-46221,"['sea_water_temperature', 'waves']"
+516,33.618 -118.317,"San Pedro, CA (092)",station-46222,"['sea_water_temperature', 'waves']"
+517,33.458 -117.767,"Dana Point, CA (096)",station-46223,"['sea_water_temperature', 'waves']"
+518,33.178 -117.472,"Oceanside Offshore, CA (045)",station-46224,"['sea_water_temperature', 'waves']"
+519,32.933 -117.391,"Torrey Pines Outer, CA (100)",station-46225,"['sea_water_temperature', 'waves']"
+520,43.77 -124.549,"UMPQUA OFFSHORE, OR (139)",station-46229,"['sea_water_temperature', 'waves']"
+521,32.747 -117.37,"Mission Bay, CA (093)",station-46231,"['sea_water_temperature', 'waves']"
+522,32.517 -117.425,"Point Loma South, CA  (191)",station-46232,"['sea_water_temperature', 'waves']"
+523,32.57 -117.169,"Imperial Beach Nearshore, CA (155)",station-46235,"['sea_water_temperature', 'waves']"
+524,36.76 -121.949,"Monterey Canyon Outer, CA  (156)",station-46236,"['sea_water_temperature', 'waves']"
+525,37.788 -122.632,"San Francisco Bar, CA  (142)",station-46237,"['sea_water_temperature', 'waves']"
+526,33.76 -119.55,"Santa Cruz Basin, CA (167)",station-46238,"['sea_water_temperature', 'waves']"
+527,36.335 -122.104,"Point Sur, CA (157)",station-46239,"['sea_water_temperature', 'waves']"
+528,36.626 -121.907,"Cabrillo Point, Monterey Bay, CA  (158)",station-46240,"['sea_water_temperature', 'waves']"
+529,33.003 -117.292,"San Elijo Nearshore, CA (161)",station-46241,"['sea_water_temperature', 'waves']"
+530,33.22 -117.439,"Camp Pendleton Nearshore, CA  (043)",station-46242,"['sea_water_temperature', 'waves']"
+531,46.216 -124.128,"Clatsop Spit, OR (162)",station-46243,"['sea_water_temperature', 'waves']"
+532,40.896 -124.357,"Humboldt Bay, North Spit, CA (168)",station-46244,"['sea_water_temperature', 'waves']"
+533,34.251 -119.308,"Ventura Nearshore, CA - 169",station-46245,"['sea_water_temperature', 'waves']"
+534,50.017 -145.17,Ocean Station PAPA  (166),station-46246,"['sea_water_temperature', 'waves']"
+535,37.753 -122.833,"San Francisco Offshore, CA  (180)",station-46247,"['sea_water_temperature', 'waves']"
+536,46.133 -124.644,"Astoria Canyon, OR  (179)",station-46248,"['sea_water_temperature', 'waves']"
+537,33.821 -119.708,"Santa Cruz Island South, CA (182)",station-46249,"['sea_water_temperature', 'waves']"
+538,34.034 -119.09,"Point Mugu Offshore, CA - 184",station-46250,"['sea_water_temperature', 'waves']"
+539,33.769 -119.565,"Santa Cruz Basin, CA (203)",station-46251,"['sea_water_temperature', 'waves']"
+540,33.953 -119.257,"Anacapa Passage South, CA (212)",station-46252,"['sea_water_temperature', 'waves']"
+541,33.576 -118.181,"San Pedro South, CA (213)",station-46253,"['sea_water_temperature', 'waves']"
+542,32.868 -117.267,"SCRIPPS Nearshore, CA (201)",station-46254,"['air_temperature', 'sea_water_temperature', 'waves']"
+543,33.4 -119.651,"Begg Rock, CA  (138)",station-46255,"['sea_water_temperature', 'waves']"
+544,33.7 -118.201,"Long Beach Channel, CA (215)",station-46256,"['sea_water_temperature', 'waves']"
+545,34.439 -120.766,"Harvest Southeast, CA (216)",station-46257,"['sea_water_temperature', 'waves']"
+546,32.752 -117.501,"Mission Bay West, CA (220)",station-46258,"['sea_water_temperature', 'waves']"
+547,34.767 -121.498,"Santa Lucia Escarpment, CA (222)",station-46259,"['sea_water_temperature', 'waves']"
+548,43.586 -124.29,"Lakeside, OR (231)",station-46260,"['sea_water_temperature', 'waves']"
+549,43.76 -124.225,"Reedsport, OR (232)",station-46261,"['sea_water_temperature', 'waves']"
+550,33.704 -119.004,"Santa Barbara Island North, CA (234)",station-46262,"['sea_water_temperature', 'waves']"
+551,39.37 -123.912,"Fort Bragg South, CA (235)",station-46263,"['sea_water_temperature', 'waves']"
+552,57.479 -151.695,"Kodiak, AK (236)",station-46264,"['sea_water_temperature', 'waves']"
+553,64.473 -165.475,"Nome, AK (241)",station-46265,"['sea_water_temperature', 'waves']"
+554,32.957 -117.279,"Del Mar Nearshore, CA (153)",station-46266,"['air_temperature', 'sea_water_temperature', 'waves']"
+555,48.173 -123.607,"Angeles Point, WA (248)",station-46267,"['sea_water_temperature', 'waves']"
+556,34.022 -118.578,"Topanga Nearshore, CA (103)",station-46268,"['air_temperature', 'sea_water_temperature', 'waves']"
+557,36.934 -122.034,"Point Santa Cruz, CA (254)",station-46269,"['air_temperature', 'sea_water_temperature', 'waves']"
+558,50.978 -163.948,"South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK",station-46402,[None]
+559,52.663 -156.778,"SOUTHEAST SHUMAGIN ISLAND - 186 NM SE of Shumagin Is, AK",station-46403,[None]
+560,45.848 -128.775,"WEST ASTORIA - 230 NM West of Astoria, OR",station-46404,[None]
+561,42.705 -128.835,"NEWPORT - 210NM West of Coos Bay, OR",station-46407,[None]
+562,49.662 -169.9,"NIKOLSKI - 212 NM South of Umnak Is, AK",station-46408,[None]
+563,55.318 -148.547,"SOUTHEAST KODIAK - 210 NM SE of Kodiak, AK",station-46409,[None]
+564,57.644 -143.734,"SOUTH CORDOVA 188NM SSE of Cordova, AK",station-46410,"['air_temperature', 'air_pressure_at_sea_level', 'sea_floor_depth_below_sea_surface', 'winds']"
+565,39.335 -127.07,"Mendocino - 150 NM West of  Mendocino Bay, CA",station-46411,[None]
+566,32.4 -120.582,"San Diego - 175 NM West of San Diego, CA",station-46412,[None]
+567,48 -174.228,"SOUTH-SOUTHEAST ADAK - 243 NM SSE of Adak Island, AK",station-46413,[None]
+568,53.726 -152.483,"SOUTHEAST CHIRIKOF - 165 NM SE of Chirikof Island, AK",station-46414,[None]
+569,52.98 -139.95,"SOUTHWEST JUNEAU - 370 NM SW of Juneau, AK",station-46415,[None]
+570,49.901 -134.395,"WEST VANCOUVER - 442NM West of Vancouver, BC, Canada",station-46416,[None]
+571,48.805 -129.616,"NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA",station-46419,[None]
+572,70.025 -166.071,Point Lay (UAF),station-48012,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+573,65.011 -169.454,30 NM West of King Island,station-48114,"['air_temperature', 'sea_water_temperature', 'waves']"
+574,70.37 -146.04,Camden Bay (Shell Arctic),station-48211,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+575,70.874 -150.279,Harrison Bay (Shell Arctic),station-48212,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+576,71.502 -164.133,Burger,station-48213,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+577,70.872 -165.248,Klondike (MOB1),station-48214,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+578,71.758 -167.952,Crackerjack (Shell Arctic),station-48216,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+579,50.055 -144.873,Ocean Climate Station Papa,station-48400,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+580,30 -90,(ng291),station-48900,"['sea_water_salinity', 'sea_water_temperature']"
+581,30 -90,(ng297),station-48901,"['sea_water_salinity', 'sea_water_temperature']"
+582,30 -90,(SG515),station-48902,"['sea_water_salinity', 'sea_water_temperature']"
+583,30 -90,(UD_134),station-48903,"['sea_water_salinity', 'sea_water_temperature']"
+584,30 -90,(RU23),station-48904,"['sea_water_salinity', 'sea_water_temperature']"
+585,30 -90,(BASS),station-48905,"['sea_water_salinity', 'sea_water_temperature']"
+586,30 -90,(WALDO),station-48906,"['sea_water_salinity', 'sea_water_temperature']"
+587,30 -90,(COOK),station-48907,"['sea_water_salinity', 'sea_water_temperature']"
+588,30 -90,(SG135),station-48908,"['sea_water_salinity', 'sea_water_temperature']"
+589,30 -90,(SG137),station-48909,"['sea_water_salinity', 'sea_water_temperature']"
+590,30 -90,(SPRAY40),station-48910,"['sea_water_salinity', 'sea_water_temperature']"
+591,30 -90,SG553,station-48911,"['sea_water_salinity', 'sea_water_temperature']"
+592,23.528 -153.792,NORTHERN HAWAII ONE - 245NM NE of Honolulu HI,station-51000,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+593,24.453 -162,"NORTHWESTERN HAWAII ONE - 188 NM NW of Kauai Island, HI",station-51001,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+594,17.043 -157.742,"SOUTHWEST HAWAII - 215NM SSW of Hilo, HI",station-51002,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+595,19.196 -160.639,"WESTERN  HAWAII - 205 NM SW of Honolulu, HI",station-51003,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+596,17.533 -152.255,"SOUTHEAST HAWAII - 205 NM Southeast of Hilo, HI",station-51004,"['air_temperature', 'air_pressure_at_sea_level', 'currents', 'sea_water_temperature', 'waves', 'winds']"
+597,9 -140,9N 140W,station-51006,"['sea_water_temperature', 'winds']"
+598,5 -140,5N 140W,station-51007,"['sea_water_temperature', 'winds']"
+599,2 -140,2N 140W,station-51008,"['sea_water_temperature', 'winds']"
+600,-2 -140,2S 140W,station-51009,"['sea_water_temperature', 'winds']"
+601,0 -170,0 170W,station-51010,"['sea_water_temperature', 'winds']"
+602,0 -125,0 125W,station-51011,"['sea_water_temperature', 'winds']"
+603,-5 -140,5S 140W,station-51014,"['sea_water_temperature', 'winds']"
+604,5 -125,5N 125W,station-51015,"['sea_water_temperature', 'winds']"
+605,2 -125,2N 125W,station-51016,"['sea_water_temperature', 'winds']"
+606,-2 -125,2S 125W,station-51017,"['sea_water_temperature', 'winds']"
+607,-5 -125,5S 125W,station-51018,"['sea_water_temperature', 'winds']"
+608,-5 -155,5S 155W,station-51019,"['sea_water_temperature', 'winds']"
+609,5 -155,5N 155W,station-51020,"['sea_water_temperature', 'winds']"
+610,2 -155,2N 155W,station-51021,"['sea_water_temperature', 'winds']"
+611,-2 -155,2S 155W,station-51022,"['sea_water_temperature', 'winds']"
+612,0 -155,0 155W,station-51023,"['sea_water_temperature', 'winds']"
+613,0 -153.913,Christmas Island,station-51028,"['sea_water_temperature', 'winds']"
+614,19.734 -155.082,"Hilo Bay, HI",station-51045,"['sea_water_salinity', 'sea_water_temperature']"
+615,20.024 -155.828,"Kawaihai, HI",station-51046,"['sea_water_salinity', 'sea_water_temperature']"
+616,23.558 -153.9,"NORTHERN HAWAII TWO - 252NM NE of Honolulu, HI",station-51100,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+617,24.361 -162.075,"NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI",station-51101,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+618,23.856 -166.275,French Frigate Shoals  (FFS Ocean 006),station-51167,[None]
+619,-0.379 -159.978,Jarvis Island  (JAR 016),station-51169,[None]
+620,16.759 -169.5,Johnston Atoll (JOH 005),station-51170,[None]
+621,6.393 -162.342,Kingman Reef  (KIN 001),station-51171,[None]
+622,28.418 -178.343,Kure Atoll  (KUR 008),station-51172,[None]
+623,25.968 -173.916,Litsianski Island  (LIS 001),station-51173,[None]
+624,-14.181 -169.652,"Ofu Island, American Samoa  (OFU 008)",station-51174,[None]
+625,27.837 -175.816,Pearl and Hermes Reef  (PHR 001),station-51176,[None]
+626,-14.551 -168.16,Rose Atoll  (ROS 002),station-51177,[None]
+627,-14.244 -169.509,"Tau Island, American Samoa  (TAU 004)",station-51178,[None]
+628,-14.328 -170.833,"Southwestern Tutuila Island, American Samoa  (TUT 002)",station-51179,[None]
+629,-14.284 -170.722,"Western Tutuila Island, American Samoa  (TUT 004)",station-51180,[None]
+630,-14.367 -170.763,"Southern Tutuila Island, American Samoa  (TUT 018)",station-51181,[None]
+631,21.096 -158.303,"Barbers Point, HI  (164)",station-51200,"['sea_water_temperature', 'waves']"
+632,21.671 -158.117,"Waimea Bay, HI (106)",station-51201,"['sea_water_temperature', 'waves']"
+633,21.417 -157.68,"Mokapu Point, HI (098)",station-51202,"['sea_water_temperature', 'waves']"
+634,20.788 -157.01,"Kaumalapau, HI (146)",station-51203,"['sea_water_temperature', 'waves']"
+635,21.281 -158.124,"Barbers Point, HI #2 (165)",station-51204,"['sea_water_temperature', 'waves']"
+636,21.019 -156.422,"Pauwela, Maui, HI (187)",station-51205,"['sea_water_temperature', 'waves']"
+637,19.779 -154.97,"Hilo, Hawaii, HI (188)",station-51206,"['sea_water_temperature', 'waves']"
+638,21.477 -157.752,"Kaneohe Bay, HI (198)",station-51207,"['sea_water_temperature', 'waves']"
+639,22.285 -159.574,"Hanalei, Kauai, HI (202)",station-51208,"['sea_water_temperature', 'waves']"
+640,-14.273 -170.5,"Aunuu, American Samoa (189)",station-51209,"['sea_water_temperature', 'waves']"
+641,21.477 -157.756,"Kaneohe Bay, WETS, HI (225)",station-51210,"['sea_water_temperature', 'waves']"
+642,21.297 -157.959,"Pearl Harbor Entrance, HI (233)",station-51211,"['sea_water_temperature', 'waves']"
+643,21.323 -158.149,"Barbers Point, Kalaeloa, HI (238)",station-51212,"['air_temperature', 'sea_water_temperature', 'waves']"
+644,20.75 -157.003,"Kaumalapau Southwest, Lanai, HI (239)",station-51213,"['sea_water_temperature', 'waves']"
+645,8 -155,8N 155W,station-51301,"['sea_water_temperature', 'winds']"
+646,-8 -155,8S 155W,station-51302,"['sea_water_temperature', 'winds']"
+647,5 -170,5N 170W,station-51303,"['sea_water_temperature', 'winds']"
+648,-5 -170,5S 170W,station-51304,"['sea_water_temperature', 'winds']"
+649,2 -170,2N 170W,station-51305,"['sea_water_temperature', 'winds']"
+650,-2 -170,2S 170W,station-51306,"['sea_water_temperature', 'winds']"
+651,8 -125,8N 125W,station-51307,"['sea_water_temperature', 'winds']"
+652,-8 -125,8S 125W,station-51308,"['sea_water_temperature', 'winds']"
+653,8 -170,8N 170W,station-51309,"['sea_water_temperature', 'winds']"
+654,-8 -170,8S 170W,station-51310,"['sea_water_temperature', 'winds']"
+655,0 -140,0 140W,station-51311,"['sea_water_temperature', 'winds']"
+656,-8.48 -125.027,CENTRAL SOUTH PACIFIC  - 1040NM NNE of Pitcarin Is,station-51406,[None]
+657,19.556 -156.538,"HAWAII - 34NM West of Kailua-Kona, HI",station-51407,[None]
+658,-9.505 -176.262,"NORTHWEST APIA - 370 NM NW of Apia, Samoa",station-51425,[None]
+659,-23.11 -168.385,SOUTHEAST TONGA - 400NM SE of Tonga,station-51426,[None]
+660,22 -158,WHOTS - Woods Hole Ocean Time-series,station-51wh0,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+661,19.289 -160.569,WESTERN HAWAII (Adrift),station-51x03,"['sea_water_temperature', 'waves']"
+662,17.586 -152.461,Old 51004 (adrift),station-51x04,[None]
+663,2 165,2N 165E,station-52001,"['sea_water_temperature', 'winds']"
+664,-2 165,2S 165E,station-52002,"['sea_water_temperature', 'winds']"
+665,5 165,5N 165E,station-52003,"['sea_water_temperature', 'winds']"
+666,-5 165,5S 165E,station-52004,"['sea_water_temperature', 'winds']"
+667,8 165,8N 165E,station-52006,"['sea_water_temperature', 'winds']"
+668,-8 165,8S 165E,station-52007,"['sea_water_temperature', 'winds']"
+669,13.354 144.788,"Ipan, Guam (121)",station-52200,"['sea_water_temperature', 'waves']"
+670,7.083 171.392,"Kalo, Majuro, Marshall Islands (163)",station-52201,"['sea_water_temperature', 'waves']"
+671,13.682 144.806,"Ritidian Point, Guam (196)",station-52202,"['sea_water_temperature', 'waves']"
+672,15.268 145.662,"Tanapag, Saipan, NMI (197)",station-52211,"['sea_water_temperature', 'waves']"
+673,7.63 134.667,"Ngaraard, Babeldaob, Palau (219)",station-52212,"['sea_water_temperature', 'waves']"
+674,19.308 166.622,Wake Island  (WAK 002),station-52243,[None]
+675,20.029 145.232,Maug Islands  (MAU 002),station-52244,[None]
+676,18.127 145.757,Pagan Island  (PAG 001),station-52245,[None]
+677,15.172 145.695,Saipan Island  (SAI 008),station-52246,[None]
+678,14.128 145.164,Rota Island  (ROT 002),station-52247,[None]
+679,13.529 144.801,Guam  (GUA 003),station-52248,[None]
+680,-5.157 150.299,"Kimbe, New Britain, PNG  (KIM 001)",station-52249,[None]
+681,5 180,5N 180W,station-52309,"['sea_water_temperature', 'winds']"
+682,2 180,2N 180W,station-52310,"['sea_water_temperature', 'winds']"
+683,0 180,0 180W,station-52311,"['sea_water_temperature', 'winds']"
+684,-2 180,2S 180W,station-52312,"['sea_water_temperature', 'winds']"
+685,-5 180,5S 180W,station-52313,"['sea_water_temperature', 'winds']"
+686,8 180,8N 180W,station-52315,"['sea_water_temperature', 'winds']"
+687,-8 180,8S 180W,station-52316,"['sea_water_temperature', 'winds']"
+688,0 165,0 165E,station-52321,"['sea_water_temperature', 'winds']"
+689,19.283 155.729,NORTHEAST SAIPAN - 610 NM ENE of Saipan,station-52401,[None]
+690,11.929 153.909,SOUTHEAST SAIPAN - 540NM ESE of Saipan,station-52402,[None]
+691,4.06 145.61,"NORTH MANUS - 345NM North of Manus Is , New Guinea",station-52403,[None]
+692,20.633 132.12,"NORTH PHILIPPINE SEA - 750 NM NE of Manila, Philippines",station-52404,[None]
+693,13.042 132.157,"SOUTH PHILIPPINE SEA -725 NM West of Agana, Guam",station-52405,[None]
+694,-5.373 164.99,NORTHEAST SOLOMON - 370NM NE of Guadalcanal,station-52406,[None]
+695,-11.445 113.607,South Bali,station-53046,[None]
+696,-33.109 -173.155,"NORTHEAST NEW ZEALAND - 640NM NE of Auckland, NZ",station-54401,[None]
+697,-15.664 158.453,Coral Sea 1     -     1285km ENE of Townsville,station-55012,[None]
+698,-46.665 161.001,TASMAN SEA 3     -     1160km ESE of Hobart,station-55013,[None]
+699,-46.956 160.343,TASMAN SEA 1     -     1110km ESE of Hobart,station-55015,[None]
+700,-26 176,ETD Fiji Basin,station-55016,[None]
+701,-14.715 153.537,Coral Sea 2     -     870km NE of Townsville,station-55023,[None]
+702,-44.79 161.7,Tasman Sea 2     -     1175km ESE of Hobart,station-55042,[None]
+703,-14.046 110.028,Indian Ocean 1     -      1025km NW of Dampier,station-56001,[None]
+704,-15.019 118.073,Indian Ocean 2     -     630km NNE of Dampier,station-56003,[None]
+705,30 -90,SG204,station-58900,"['sea_water_salinity', 'sea_water_temperature']"
+706,30 -90,SG166,station-58902,"['sea_water_salinity', 'sea_water_temperature']"
+707,30 -90,SG181,station-58903,"['sea_water_salinity', 'sea_water_temperature']"
+708,30 -90,SG170,station-58904,"['sea_water_salinity', 'sea_water_temperature']"
+709,30 -90,SG165,station-58905,"['sea_water_salinity', 'sea_water_temperature']"
+710,30 -90,SB124,station-58906,"['sea_water_salinity', 'sea_water_temperature']"
+711,30 -90,SG502,station-78900,"['sea_water_salinity', 'sea_water_temperature']"
+712,30 -90,SG503,station-78901,"['sea_water_salinity', 'sea_water_temperature']"
+713,44.333 -75.933,"Alexandria Bay, NY",station-aban6,[None]
+714,39.38 -74.42,"Atlantic City Marina, NJ",station-acmn4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+715,44.608 -87.433,"Algoma City Marina, WI",station-agmw3,[None]
+716,58.287 -134.398,"Juneau AJ Dock, AK",station-ajxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+717,58.915 -151.952,"East Amatuli Island Light, AK",station-amaa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+718,28.193 -82.789,"Anclote Gulf Park, FL",station-ancf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+719,27.538 -82.739,"ANM - Anna Maria, FL",station-anmf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+720,27.837 -97.039,"8775241 - Aransas, Aransas Pass, TX",station-anpt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+721,45.06 -83.424,"Alpena Harbor Light, Alpena, MI",station-apnm4,"['air_temperature', 'winds']"
+722,18.48 -66.702,"9757809 - Arecibo, PR",station-arop4,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+723,28.433 -82.667,"APK - Aripeka, FL",station-arpf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+724,18.457 -67.165,"9759412 - Aquadilla, PR",station-audp4,"['air_temperature', 'sea_water_temperature', 'winds']"
+725,59.378 -153.348,"Augustine Island, AK",station-auga2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+726,39.09 -74.72,"Avalon, NJ",station-avan4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+727,28.227 -96.796,"8774230 - Aransas Wildlife Refuge, TX",station-awrt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+728,27.297 -97.405,"8776604 - Baffin Bay, TX",station-babt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+729,42.345 -79.595,"Barcelona Harbor, NY",station-barn6,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+730,25.478 -80.989,"Broad River, FL",station-bdvf1,"['sea_water_salinity', 'sea_water_temperature']"
+731,38.317 -123.071,"Bodega, CA",station-bdxc1,"['sea_water_salinity', 'sea_water_temperature']"
+732,26.404 -81.881,"BCP - Big Carlos Pass, FL",station-bgcf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+733,41.646 -87.147,"Burns Harbor, IN",station-bhri3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+734,46.827 -87.727,"Big Bay, MI",station-bigm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+735,25.119 -80.834,"Buoy Key, FL",station-bkyf1,"['sea_water_salinity', 'sea_water_temperature']"
+736,60.839 -146.884,"Bligh Reef Light, AK",station-blia2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+737,58.455 -135.889,Bartlett Cove AK,station-blta2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+738,25.087 -80.519,"Butternut Key, FL",station-bnkf1,"['sea_water_salinity', 'sea_water_temperature']"
+739,25.027 -80.681,"Bob Allen, FL",station-bobf1,"['sea_water_salinity', 'sea_water_temperature']"
+740,39.61 -74.2,"Brant Beach, NJ",station-brbn4,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+741,44.055 -86.514,"Big Sable Point, MI",station-bsbm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+742,30.329 -87.829,"Bon Secour, AL",station-bsca1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+743,25.266 -81.162,"Big Sable Creek, FL",station-bskf1,"['sea_water_salinity', 'sea_water_temperature']"
+744,38.537 -75.046,"Bethany Beach, DE",station-bthd1,[None]
+745,28.905 -89.428,"Southwest Pass, LA",station-burl1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+746,41.397 -71.033,"Buzzards Bay, MA",station-buzm3,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+747,25.178 -80.438,"Blackwater Sound, FL",station-bwsf1,"['sea_water_salinity', 'sea_water_temperature']"
+748,26.067 -97.155,"8779749 - SPI Brazos Santiago, TX",station-bzst2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+749,44.146 -87.563,"Two Rivers CG Station, WI",station-c58w3,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature']"
+750,27.765 -82.649,"Campbell Park, FL",station-camf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+751,25.422 -80.942,"Cane Patch, FL",station-canf1,"['sea_water_salinity', 'sea_water_temperature']"
+752,43.342 -124.375,"Cape Arago, OR",station-caro3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+753,41.981 -80.556,"Conneaut Breakwater Light, OH",station-cblo1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+754,45.198 -87.36,"Chambers Island, WI",station-cbrw3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+755,56.001 -134.136,"Cape Decision, AK",station-cdea2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+756,29.136 -83.029,"Cedar Key, FL",station-cdrf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+757,56.001 -134.136,"Cape Decision MXAK, AK",station-cdxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+758,28.791 -89.056,Cognac,station-cgcl1,"['air_temperature', 'winds']"
+759,33.661 -82.199,"Strom Thurmond Dam, SC",station-chds1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+760,41.916 -87.572,"Harrison-Dever Crib, Chicago, IL",station-chii2,"['air_temperature', 'winds']"
+761,36.905 -75.713,"Chesapeake Light, VA",station-chlv2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+762,27.736 -82.686,"Clam Bayou, FL",station-clbf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+763,34.622 -76.525,"Cape Lookout, NC",station-clkn7,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+764,42.471 -82.877,"St. Clair Shores, MI",station-clsm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+765,43.07 -70.7,"Coastal Marine Lab, New Castle, NH",station-cmln3,"['air_temperature', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+766,41.547 -83.015,"Camp Perry, OH",station-cmpo1,"['air_temperature', 'winds']"
+767,25.702 -81.186,"Cannon Bay, FL",station-cnbf1,"['sea_water_salinity', 'sea_water_temperature']"
+768,41.856 -87.609,"Northerly Isle, IL",station-cnii2,"['air_temperature', 'winds']"
+769,28.114 -97.024,"8774513 - Copano Bay, TX",station-cpnt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+770,35.17 -120.741,"Cal Poly Pier, CA",station-cpxc1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+771,38.066 -122.23,"Carquinez, CA",station-cquc1,"['sea_water_salinity', 'sea_water_temperature']"
+772,55.474 -133.136,"Craig, AK",station-crga2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+773,30.308 -88.14,"Cedar Point, AL",station-crta1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+774,58.199 -136.64,"Cape Spencer, AK",station-cspa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+775,25.297 -81.013,"Clear Water Pass, FL",station-cwaf1,"['sea_water_salinity', 'sea_water_temperature']"
+776,45.658 -84.464,"Cheboygan Marina, MI",station-cygm4,[None]
+777,42.494 -79.354,"Dunkirk, NY",station-dbln6,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+778,47.675 -124.485,"Destruction Island, WA",station-desw1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+779,47.079 -90.728,"Devils Island, WI",station-disw3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+780,25.18 -80.49,"Duck Key, FL",station-dkkf1,"['sea_water_salinity', 'sea_water_temperature']"
+781,46.226 -123.955,"Desdemona Sands Light, OR",station-dmno3,"['air_temperature', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+782,30.251 -88.078,"Dauphin Island Sea Lab, AL",station-dpha1,"['sea_water_salinity', 'sea_water_temperature', 'winds']"
+783,30.25 -88.075,"Dauphin Island, AL",station-dpia1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+784,60.553 -152.137,"Drift River Terminal, AK",station-drfa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+785,27.601 -82.759,"EGK - Egmont Key, FL",station-egkf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+786,28.71 -95.914,"8773146 - Matagorda City, TX",station-emat2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+787,58.971 -135.221,"Eldred Rock, AK",station-eroa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+788,58.971 -135.221,"Eldred Rock MXAK, AK",station-erxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+789,32.685 -79.888,"Folly Island, SC",station-fbis1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+790,32.652 -79.938,"Folly Beach Pier, SC",station-fbps1,[None]
+791,57.272 -133.63,"Five Fingers, AK",station-ffia2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+792,28.118 -93.67,High Island 334,station-fgbl1,"['air_temperature', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+793,28.153 -82.801,"FHP - Fred Howard Park, FL",station-fhpf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+794,59.332 -151.995,"Flat Island Light, AK",station-fila2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+795,28.936 -95.294,"8772471 - Freeport SPIP, TX",station-fpst2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+796,45.619 -86.66,"Fairport, MI",station-fptm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+797,37.807 -122.466,"Fort Point, CA",station-fpxc1,"['sea_water_salinity', 'sea_water_temperature']"
+798,18.335 -65.631,"9753216 - Fajardo, PR",station-frdp4,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+799,36.19 -75.739,"USACE-CHL Field Research Facility, Duck, NC",station-frfn7,[None]
+800,41.976 -87.648,"Foster Ave., Chicago, IL",station-fsti2,"['air_temperature', 'winds']"
+801,25.591 -80.097,"Fowey Rock, FL",station-fwyf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+802,25.378 -81.029,"Gunboat Island, FL",station-gbif1,"['sea_water_salinity', 'sea_water_temperature']"
+803,44.653 -87.901,"Green Bay Entrance Light, WI",station-gblw3,"['air_temperature', 'winds']"
+804,25.167 -80.801,"Garfield Bight, FL",station-gbtf1,"['sea_water_salinity', 'sea_water_temperature']"
+805,41.859 -80.975,"Geneva on the Lake Light, OH",station-gelo1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+806,58.212 -136.381,"George Island, Alaska",station-gexa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+807,55.446 -131.881,"Guard Island, AK",station-gixa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+808,24.627 -82.872,"Garden Key, FL",station-gkyf1,"['air_temperature', 'sea_water_temperature']"
+809,24.899 -83.868,Mississippi State University Wave Glider - GOM01,station-gom01,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+810,46.273 -123.767,"Grays Point, WA",station-gptw1,"['sea_water_salinity', 'sea_water_temperature']"
+811,29.101 -89.978,"Grand Isle Blocks, LA / CSI09",station-grbl1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+812,46.721 -87.412,"Granite Island, MI",station-grim4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+813,46.684 -85.972,"Grand Marais, MI",station-grmm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+814,29.302 -94.896,"8771486 - Galveston RR Bridge, TX",station-grrt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+815,44.018 -83.537,"Gravelly Shoal Light, MI",station-gslm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+816,44.767 -85.607,Grand Traverse Bay Observing System Station 2,station-gtbm4,"['air_temperature', 'winds']"
+817,45.211 -85.55,"Grand Traverse Light, MI",station-gtlm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+818,47.179 -88.241,"Superior Grand Traverse Bay, MI",station-gtrm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+819,58.408 -135.726,"Gustavus Dock, AK",station-guxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+820,59.234 -135.442,"Haines Harbor, AK",station-haxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+821,40.777 -124.197,"Humboldt, CA",station-hbxc1,"['sea_water_salinity', 'sea_water_temperature']"
+822,25.254 -80.444,"Highway Creek, FL",station-hcef1,"['sea_water_salinity', 'sea_water_temperature']"
+823,41.401 -82.545,"Huron Harbor Light, OH",station-hhlo1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+824,29.595 -94.39,"8770808 - High Island, TX",station-hist2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+825,59.602 -151.417,"Homer Spit, AK",station-hmsa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+826,25.424 -81.06,"Harney River, FL",station-href1,"['sea_water_salinity', 'sea_water_temperature']"
+827,28.772 -82.707,"HOM - Homosassa, FL",station-hssf1,[None]
+828,59.927 -141.359,"Icy Bay, AK",station-icya2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+829,29.053 -90.533,"Isle Dernieres, LA / CSI05",station-ildl1,"['sea_water_temperature', 'winds']"
+830,17.969 -67.044,"Isla Magueyes, Lajas, PR",station-imgp4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+831,42.967 -70.623,"Isle of Shoals, NH",station-iosn3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+832,27.48 -97.322,"8776139 - South Bird Island, TX",station-irdt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+833,41.781 -87.573,"63rd St., Chicago, IL",station-jaki2,"['air_temperature', 'winds']"
+834,25.224 -80.541,"Joe Bay, FL",station-jbyf1,"['sea_water_salinity', 'sea_water_temperature']"
+835,25.053 -80.904,"Johnson Key, FL",station-jkyf1,"['sea_water_salinity', 'sea_water_temperature']"
+836,58.298 -134.405,"Juneau Library, AK",station-jlxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+837,58.286 -134.39,Juneau AML Dock,station-jmla2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+838,58.291 -134.394,"Juneau ANG Dock, AK",station-jnga2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+839,35.912 -75.587,"Jennette's Pier, Nags Head, NC",station-jprn7,[None]
+840,46.266 -124.038,"Jetty A, USCG Station Disappointment",station-jtaw1,"['sea_water_salinity', 'sea_water_temperature']"
+841,30.258 -88.213,"Katrina Cut, AL",station-kata1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+842,27.195 -90.027,Green Canyon 787 / Atlantis (BP),station-katp,"['air_temperature', 'winds']"
+843,28.058 -95.872,Brazos 133B (Apache Corp),station-kbbf,"['air_temperature', 'winds']"
+844,28.314 -95.62,Brazos 538 (Transco),station-kbqx,"['air_temperature', 'winds']"
+845,29.441 -92.979,East Cameron 47JP (Apache Corp),station-kcmb,"['air_temperature', 'winds']"
+846,28.909 -93.302,West Cameron 368A (Century Exploration),station-kcrh,"['air_temperature', 'winds']"
+847,29.784 -93.3,"Cameron, LA (PHI)",station-kcvw,"['air_temperature', 'winds']"
+848,29.121 -89.547,West Delta 27A (AngloSuisse Offshore Partners),station-kdlp,"['air_temperature', 'winds']"
+849,28.429 -92.878,East Cameron 278B (Apache Corp),station-kehc,"['air_temperature', 'winds']"
+850,28.634 -91.489,Eugene Island 215 (McMoRan Oil & Gas),station-keir,"['air_temperature', 'winds']"
+851,27.819 -94.323,East Breaks 165 (SandRidge Energy),station-kemk,"['air_temperature', 'winds']"
+852,55.352 -131.684,"Ketchikan Harbor, AK",station-kexa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+853,27.204 -92.203,Garden Banks 783 / Magnolia TLP (W&T Offshore),station-kgbk,"['air_temperature', 'winds']"
+854,27.84 -91.988,Garden Banks 172 / Salsa (Shell E & P),station-kghb,"['air_temperature', 'winds']"
+855,47.745 -90.346,"Bay of Grand Marais, MN",station-kgna,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+856,27.625 -90.441,Green Canyon 338 / Front Runner (Murphy E&P),station-kgry,"['air_temperature', 'winds']"
+857,27.304 -93.538,Garden Banks 668 / Gunnison Spar (Anadarko),station-kgul,"['air_temperature', 'winds']"
+858,28.577 -94.976,Galveston 424C (Nippon Oil Exploration),station-kgvx,"['air_temperature', 'winds']"
+859,26.939 -94.689,Alaminos Canyon 25 / Hoover-Diana (ExxonMobile Corp),station-khhv,"['air_temperature', 'winds']"
+860,27.934 -93.669,High Island 376B (Apache),station-khqi,"['air_temperature', 'winds']"
+861,28.521 -88.289,Mississippi Canyon 474 / Na Kika FPU (BP),station-kikt,"['air_temperature', 'winds']"
+862,28.085 -87.986,Mississippi Canyon 920 / Independence Hub (Anadarko / Enterprise),station-kipn,"['air_temperature', 'winds']"
+863,28.643 -89.794,Mississippi Canyon 311A (Apache Corp),station-kmdj,"['air_temperature', 'winds']"
+864,29.296 -88.842,MP 140B  AWOS (Apache Corp),station-kmis,"['air_temperature', 'winds']"
+865,27.289 -96.736,Mustang Island A31B (Merit Energy),station-kmiu,"['air_temperature', 'winds']"
+866,28.221 -89.615,Mississippi Canyon 711 / ATP Innovator (ATP Oil & Gas),station-kmyt,"['air_temperature', 'winds']"
+867,27.727 -96.191,Mustang Island A85A (Apache Corp),station-kmzg,"['air_temperature', 'winds']"
+868,21.288 -157.865,"Kilo Nalu Observatory, Hawaii",station-knoh1,[None]
+869,42.589 -87.809,"Kenosha Light, Kenosha, WI",station-knsw3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+870,26.833 -96.94,North Padre Island 975 (Peregrine Oil & Gas),station-kopm,"['air_temperature', 'winds']"
+871,46.417 -86.65,"Munising Lake Shore, MI",station-kp53,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+872,44.017 -82.8,"Port Hope, MI",station-kp58,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+873,47.467 -87.883,"Copper Harbor, MI",station-kp59,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+874,29.116 -91.871,South Marsh 268A (Apache Corp),station-kscf,"['air_temperature', 'winds']"
+875,28.599 -91.206,Ship Shoal 178 (Apache Corp),station-kspr,"['air_temperature', 'winds']"
+876,28.083 -90.819,Ship Shoal 354 (Fieldwood Energy),station-ksqe,"['air_temperature', 'winds']"
+877,28.16 -90.666,South Timballer 301B / Popeye  (Shell E & P),station-kstz,"['air_temperature', 'winds']"
+878,29.819 -83.594,"Keaton Beach, FL",station-ktnf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+879,27.354 -94.625,East Breaks 643 / Boomvang Spar (Anadarko),station-kvaf,"['air_temperature', 'winds']"
+880,29.478 -93.638,Sabine Pass 13B (Nippon Oil Exploration),station-kvbs,"['air_temperature', 'winds']"
+881,29.248 -88.441,Main Pass 289C (Apache Corp.),station-kvky,"['air_temperature', 'winds']"
+882,29.467 -92.368,Vermillion 26 (Mariner Energy),station-kvnp,"['air_temperature', 'winds']"
+883,29.229 -87.781,Viosca Knoll 786 / Petronius (Chevron),station-kvoa,"['air_temperature', 'winds']"
+884,28.27 -92.264,Vermillon 331A  (ERT / Helix),station-kvqt,"['air_temperature', 'winds']"
+885,29.18 -94.521,High Island 179A AWOS (Apache Corp),station-kxih,"['air_temperature', 'winds']"
+886,29.123 -90.202,Port Fourchon Heliport (Era Helicopters),station-kxpy,"['air_temperature', 'winds']"
+887,25.484 -81.133,"Broad River Lower, FL",station-lbrf1,"['sea_water_salinity', 'sea_water_temperature']"
+888,25.214 -80.432,"Little Blackwater, FL",station-lbsf1,"['sea_water_salinity', 'sea_water_temperature']"
+889,19.699 -80.06,"Little Cayman Research Centre, Cayman Islands",station-lciy2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+890,56.058 -132.69,"Lincoln Island, AK",station-lcna2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+891,41.306 -72.077,"New London Ledge Light, New London Harbor, CT",station-ldlc3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+892,58.54 -135.047,"Little Island, AK",station-lixa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+893,32.867 -117.257,"La Jolla, CA (073)",station-ljpc1,"['waves', 'winds']"
+894,30.315 -90.281,"Western Lake Pontchartrain, LA",station-lkpl1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+895,26.612 -80.033,"Lake Worth, FL",station-lkwf1,[None]
+896,15.157 145.77,"Lao Lao Bay, Saipan, CNMI",station-llbp7,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+897,19.594 -96.379,"La Mancha Beach, Mexico",station-lmbv4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+898,25.176 -80.633,"Little Madeira, FL",station-lmdf1,"['sea_water_salinity', 'sea_water_temperature']"
+899,34.107 -81.271,Lake Murray SC,station-lmfs1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+900,25.556 -81.169,"Lostmans River, FL",station-lmrf1,"['sea_water_salinity', 'sea_water_temperature']"
+901,33.552 -80.501,"Lake Marion, SC",station-lmss1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+902,24.844 -80.864,"Long Key, FL",station-lonf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+903,28.885 -90.025,"Louisiana Offshore Oil Port, LA",station-lopl1,"['air_temperature', 'air_pressure_at_sea_level', 'waves', 'winds']"
+904,41.481 -82.195,"Lorain Harbor, OH",station-loro1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+905,17.939 -67.052,"Media Luna, La Parguera, PR",station-lprp4,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+906,56.388 -134.637,"Little Port Walter, AK",station-lpwa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+907,25.284 -80.894,"Lane River, FL",station-lrif1,"['sea_water_salinity', 'sea_water_temperature']"
+908,24.982 -80.826,"Little Rabbit Key, FL",station-lrkf1,"['sea_water_salinity', 'sea_water_temperature']"
+909,42.465 -82.755,"Lake St. Clair Light, MI",station-lscm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+910,25.235 -80.457,"Long Sound, FL",station-lsnf1,"['sea_water_salinity', 'sea_water_temperature']"
+911,29.076 -95.122,"8771972 - San Luis Pass, TX",station-luit2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+912,29.255 -90.664,"LUMCON Marine Center, LA",station-luml1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+913,29.765 -95.079,"8770733 - Lynchburg Landing, TX",station-lybt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+914,34.091 -77.868,"Masonboro Island, NC (MSNB_S)",station-mbin7,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+915,30.437 -88.011,"Middle Bay Lighthouse, AL",station-mbla1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+916,34.171 -77.824,"Masonboro Island, NC (MSNB_N)",station-mbnn7,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+917,35.371 -120.859,"Morro Bay - BM1 T-Pier, CA",station-mbxc1,"['sea_water_salinity', 'sea_water_temperature']"
+918,41.729 -86.912,"Michigan City Harbor Entrance Light, Michigan City, IN",station-mcyi3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+919,25.289 -80.396,"Middle Key, FL",station-mdkf1,"['sea_water_salinity', 'sea_water_temperature']"
+920,43.969 -68.128,"Mt. Desert Rock, ME",station-mdrm1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+921,44.251 -86.342,"Manistee Harbor, MI",station-meem4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+922,30.667 -87.936,"Meaher Park, AL",station-mhpa1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+923,43.784 -68.855,"Matinicus Rock, ME",station-mism1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+924,43.227 -86.339,"Muskegon CG Station, Muskegon, MI",station-mkgm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+925,25.012 -80.376,"Molasses Reef, FL",station-mlrf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_electrical_conductivity', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+926,36.802 -121.791,"Moss Landing, South Harbor, CA",station-mlsc1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+927,43.005 -87.884,Port of Milwaukee,station-mlww3,"['air_temperature', 'winds']"
+928,25.239 -80.422,"Manatee Bay, FL",station-mnbf1,"['sea_water_salinity', 'sea_water_temperature']"
+929,61.082 -146.662,"Middle Rock Light, AK",station-mrka2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+930,58.198 -134.257,"Marmion Island, AK",station-mrna2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+931,29.441 -92.061,"Marsh Island, LA / CSI03",station-mrsl1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+932,55.099 -131.182,"Mary Island, AK",station-mrya2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+933,28.184 -83.956,Mississippi State University Wave Glider - MSG10,station-msg10,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+934,26.006 -83.991,Mississippi State University Wave Glider - MSG12,station-msg12,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+935,27.487 -83.987,Mississippi State University Wave Glider - MSG14,station-msg14,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+936,25.106 -80.942,"Murray Key, FL",station-mukf1,"['sea_water_salinity', 'sea_water_temperature']"
+937,58.364 -134.606,"Mendenhall Valley, AK",station-mvxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+938,58.301 -134.425,"MXAK Office, AK",station-mxxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+939,36.605 -121.889,"Monterrey, CA",station-myxc1,"['sea_water_salinity', 'sea_water_temperature']"
+940,46.087 -85.444,"Naubinway, MI",station-nabm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+941,36.087 -114.728,Lake Mead - North Boulder Basin,station-nbba3,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+942,29.726 -95.266,"8770777 - Manchester, TX",station-ncht2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+943,25.084 -81.096,"NFB - Northwest Florida Bay, FL",station-nfbf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+944,27.822 -97.204,"8775283 - Port Ingleside, TX",station-nglt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+945,52.972 -168.855,Nikolski White Alice,station-nkla2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+946,58.255 -134.945,"Naked Island, AK",station-nkxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+947,35.458 -114.666,Lake Mohave - North,station-nlma3,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+948,45.291 -86.977,"Northport Pier at Death's Door, WI",station-npdw3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+949,42.258 -79.792,"Northeast Marina, PA",station-nrep1,"['air_temperature', 'winds']"
+950,25.338 -80.911,"North River, FL",station-nrrf1,"['sea_water_salinity', 'sea_water_temperature']"
+951,27.832 -97.486,"8775244 - Nueces Bay, TX",station-nuet2,"['air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+952,44.613 -124.067,"Newport, OR",station-nwpo3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+953,40.209 -74.004,"Ocean Grove, NJ",station-ocgn4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+954,33.911 -78.147,"OCP1 - Ocean Crest Pier, NC",station-ocpn7,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'waves', 'winds']"
+955,38.338 -75.07,"Ocean City, MD",station-ocsm2,[None]
+956,41.912 -87.624,"Oak St., Chicago, IL",station-oksi2,"['air_temperature', 'winds']"
+957,43.341 -78.719,"Olcott Harbor, NY",station-olcn6,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+958,46.87 -89.33,"Ontonagon, MI",station-otnm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+959,27.634 -97.237,"8775792 - Packery Channel, TX",station-pact2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+960,58.159 -134.178,"Point Arden, AK",station-paxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+961,58.203 -134.148,"Point Bishop, AK",station-pbpa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+962,26.072 -97.167,"8779748 - South Padre Island CGS, TX",station-pcgt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+963,47.276 -88.528,"Portage Canal, MI",station-pclm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+964,28.446 -96.396,"8773701 - Port O'Connor, Matagorda Bay, TX",station-pcnt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+965,57.016 -134.618,Point Gardner,station-pgxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+966,59.742 -149.47,"Pilot Rock, AK",station-pila2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+967,48.223 -88.366,"Passage Island, MI",station-pilm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+968,24.918 -80.747,"Peterson Key, FL",station-pkyf1,"['sea_water_salinity', 'sea_water_temperature']"
+969,24.693 -82.773,"Pulaski Shoals Light, FL",station-plsf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+970,17.973 -66.762,"9758053 - Penuelas, PR",station-plsp4,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+971,26.559 -97.424,"8778490 - Port Mansfield, TX",station-pmnt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature']"
+972,46.792 -91.386,"Port Wing, WI",station-pngw3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+973,29.867 -93.931,"8770475 - Port Arthur, TX",station-port2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+974,61.06 -146.7,"Potato Point, AK",station-pota2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+975,30.279 -87.556,"Perdido Pass, AL",station-ppta1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+976,45.357 -83.492,"Presque Isle Light, MI",station-prim4,[None]
+977,58.411 -134.955,"Point Retreat, AK",station-prta2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+978,43.42 -82.54,"Port Sanilac, MI",station-pscm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+979,38.955 -123.741,"Point Arena, CA",station-ptac1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+980,27.826 -97.051,"Port Aransas, TX",station-ptat2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+981,34.577 -120.648,"Point Arguello, CA",station-ptgc1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+982,58.346 -134.752,"Portland Island, AK",station-ptla2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+983,28.285 -82.733,"PAS -Port Richey, FL",station-ptrf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+984,18.367 -67.251,"Puntas Rincon, PR",station-ptrp4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+985,26.092 -80.109,"Port Everglades Channel, FL",station-pvgf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+986,43.388 -87.867,"Port Washington, WI",station-pwaw3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+987,58.177 -135.052,"Rocky Island, AK",station-rixa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+988,26.262 -97.285,"8779280 - Realitos Peninsula, TX",station-rlit2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+989,29.515 -94.513,"8770971 - Rollover Pass, TX",station-rlot2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+990,47.867 -89.313,"Rock of Ages, MI",station-roam4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+991,43.263 -77.598,"Rochester Coast Guard, NY",station-rprn6,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+992,26.801 -97.471,"8777812 - Rincon del San Jose, TX",station-rsjt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+993,27.84 -97.072,"8775237 - Port Aransas, TX",station-rtat2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+994,19.174 -96.093,"Sacrifice Island, Mexico",station-sacv4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+995,24.456 -81.877,"Sand Key, FL",station-sanf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+996,29.857 -81.265,"St. Augustine, FL",station-sauf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+997,36.05 -114.748,Lake Mead - South Boulder Basin,station-sbbn2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+998,41.629 -82.841,"South Bass Island, OH",station-sbio1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+999,43.81 -83.72,"Saginaw Bay Light #1, MI",station-sblm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1000,58.205 -134.646,"Scull Island, AK",station-scxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1001,58.277 -134.389,"South Douglas, AK",station-sdia2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1002,28.407 -96.712,"8773037 - Seadrift, TX",station-sdrt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1003,46.204 -123.759,SATURN Estuary Station #04 at Mott Basin,station-sefo3,"['sea_water_salinity', 'sea_water_temperature']"
+1004,46.2 -123.941,SATURN Estuary Station #03,station-seto3,"['sea_water_salinity', 'sea_water_temperature']"
+1005,28.771 -95.617,"8772985 - Sargent, TX",station-sgnt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1006,43.749 -87.693,"Sheboygan, WI",station-sgnw3,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1007,29.408 -84.858,"Tyndall AFB Tower C (N4), FL",station-sgof1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1008,30.058 -84.291,"SHP - Shell Point, FL",station-shpf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1009,57.055 -135.349,"Sitka Harbor, AK",station-shxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1010,27.862 -80.445,"Sebastian Inlet State Park North Jetty, FL",station-sipf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+1011,58.177 -135.259,"Sisters Island, AK",station-sisa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1012,48.321 -122.831,"Smith Island, WA",station-sisw1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1013,55.616 -132.203,"Ship Island, AK",station-sixa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1014,42.098 -86.494,"St. Joseph, MI",station-sjom4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1015,31.534 -80.236,U.S. Navy Tower M2R6 GA,station-skmg1,[None]
+1016,59.448 -135.326,"Skagway MXAK, AK",station-skxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1017,35.389 -114.621,Lake Mohave - South,station-slmn2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+1018,47.278 -91.27,"Silver Bay, MN",station-slvm5,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1019,55.34 -131.644,"Salmon Landing, AK",station-slxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1020,33.655 -78.918,"Springmaid pier, SC",station-smbs1,[None]
+1021,24.628 -81.109,"Sombrero Key, FL",station-smkf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1022,31.375 -80.567,U.S. Navy Tower R2 GA,station-spag1,[None]
+1023,26.704 -78.995,"Settlement Point, GBI, Bahamas",station-spgf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1024,28.867 -90.483,"South Timbalier Block 52, LA / CSI06",station-spll1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+1025,44.713 -83.273,"Sturgeon Point Light, MI",station-sptm4,[None]
+1026,55.616 -132.203,"Ship Island, AK",station-spxa2,"['air_pressure_at_sea_level', 'winds']"
+1027,45.572 -122.379,"SATURN River Station #08, Camas, WA",station-sraw1,"['sea_water_electrical_conductivity', 'sea_water_temperature']"
+1028,17.784 -64.762,"Salt River Bay, St. Croix, U.S. Virgin Islands",station-srbv3,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1029,25.352 -81.1,"Shark River, FL",station-sref1,"['sea_water_salinity', 'sea_water_temperature']"
+1030,46.185 -123.188,SATURN River Station #05,station-srfw1,"['sea_water_electrical_conductivity', 'sea_water_salinity', 'sea_water_temperature']"
+1031,45.773 -84.137,"Spectacle Reef Light, MI",station-srlm4,"['air_temperature', 'sea_water_temperature', 'winds']"
+1032,29.683 -94.033,"Sabine Pass, TX",station-srst2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1033,33.838 -78.484,Sunset Beach Nearshore Waves (SUN2WAVE),station-ssbn7,"['sea_water_temperature', 'waves']"
+1034,47.184 -87.225,"Stannard Rock, MI",station-stdm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1035,57.116 -135.391,"Sitka AML, AK",station-stxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1036,44.467 -75.8,"Superior Shoals, NY",station-supn6,[None]
+1037,42.401 -86.288,"South Haven Light, South Haven, MI",station-svnm4,"['air_temperature', 'winds']"
+1038,46.563 -90.437,"Saxon Harbor, WI",station-sxhw3,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1039,55.315 -131.596,"Saxman Landing, AK",station-sxxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1040,45.202 -87.121,"Yacht Works Sister Bay, WI",station-syww3,"['air_temperature', 'winds']"
+1041,29.188 -90.665,"Tambour Bay, LA",station-taml1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1042,46.189 -123.919,"Tansy Point, OR",station-tano3,"['sea_water_salinity', 'sea_water_temperature']"
+1043,27.815 -97.389,"8775296 - USS Lexington, TX",station-taqt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature']"
+1044,28.156 -82.758,"TAS - Tarpon Springs, FL",station-tarf1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1045,44.254 -83.449,"Tawas Point, MI",station-tawm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1046,45.035 -83.194,"Thunder Bay Island, MI",station-tbim4,"['air_temperature', 'winds']"
+1047,25.155 -80.722,"Terrapin Bay, FL",station-tbyf1,"['sea_water_salinity', 'sea_water_temperature']"
+1048,25.213 -80.533,"Trout Cove, FL",station-tcvf1,"['sea_water_salinity', 'sea_water_temperature']"
+1049,41.055 -124.147,"Trinidad Pier Trinidad, CA",station-tdpc1,"['sea_water_salinity', 'sea_water_temperature']"
+1050,41.826 -83.194,Toledo Light No. 2 OH,station-thlo1,"['air_temperature', 'winds']"
+1051,25.203 -80.372,"Thursday Point, FL",station-thrf1,"['sea_water_salinity', 'sea_water_temperature']"
+1052,37.892 -122.447,"Tiburon Pier, San Francisco Bay, CA",station-tibc1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_salinity', 'sea_water_temperature', 'winds']"
+1053,57.779 -135.219,"Tenakee Springs, AK",station-tkea2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1054,25.41 -80.964,"Tarpon Bay East, FL",station-tpef1,"['sea_water_salinity', 'sea_water_temperature']"
+1055,38.899 -76.436,"Thomas Point, MD",station-tplm2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1056,54.802 -130.934,"Tree Point, AK",station-tpxa2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1057,29.187 -90.608,"Terrebonne Bay, LA",station-trbl1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1058,25.217 -80.65,"Taylor River, FL",station-trrf1,"['sea_water_salinity', 'sea_water_temperature']"
+1059,48.392 -124.735,"Tatoosh Island, WA",station-ttiw1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1060,41.699 -83.259,"Toledo Crib, OH",station-twco1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1061,29.689 -93.842,"8770822 - Texas Point, Sabine Pass, TX",station-txpt2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1062,36.132 -114.412,Lake Mead - Virgin Basin,station-vbba3,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'waves', 'winds']"
+1063,28.64 -96.609,"8773259 - Port Lavaca, TX",station-vcat2,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1064,27.072 -82.453,"Venice, FL",station-venf1,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1065,19.204 -96.113,"Veracruz Harbor, MX",station-verv4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1066,18.153 -65.444,"9752619 - Isabel Segunda, Vieques Island, PR",station-vqsp4,"['air_temperature', 'sea_water_temperature', 'winds']"
+1067,34.335 -80.702,"Lake Wateree, SC",station-wats1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1068,28.662 -89.551,Shell West Delta 143,station-wdel1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1069,46.252 -123.534,"Woody Island, OR",station-wdyo3,[None]
+1070,46.76 -84.97,"Whitefish Point, MI",station-wfpm4,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1071,42.361 -87.813,"Waukegan Harbor, IL",station-whri2,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1072,25.587 -81.044,"Willy Willy, FL",station-wiwf1,"['sea_water_salinity', 'sea_water_temperature']"
+1073,25.71 -81.249,"Watson Place, FL",station-wplf1,"['sea_water_salinity', 'sea_water_temperature']"
+1074,47.662 -122.436,"West Point, WA",station-wpow1,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
+1075,25.072 -80.735,"Whipray Basin, FL",station-wrbf1,"['sea_water_salinity', 'sea_water_temperature', 'winds']"
+1076,45.842 -85.135,"White Shoal Light, MI",station-wslm4,"['air_temperature', 'air_pressure_at_sea_level', 'sea_water_temperature', 'winds']"
+1077,25.232 -80.938,"Whitewater Bay-East, FL",station-wwef1,"['sea_water_salinity', 'sea_water_temperature']"
+1078,18.055 -65.833,"9754228 - Yabucoa Harbor, PR",station-yabp4,"['air_temperature', 'sea_water_temperature', 'winds']"
+1079,43.262 -79.064,"Niagara Coast Guard Station, NY",station-ygnn6,"['air_temperature', 'air_pressure_at_sea_level', 'winds']"
